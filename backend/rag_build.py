@@ -7,18 +7,40 @@ from sentence_transformers import SentenceTransformer
 
 # Paths
 EMBED_MODEL = "all-MiniLM-L6-v2"
-INDEX_PATH = "backend/data/faiss.index"
-CHUNKS_PATH = "backend/data/chunks.json"
-DATA_PATH = "backend/data/stays.csv"  # Your accommodations CSV
+INDEX_PATH = "D:\\Edu\\Projects\\tour-assistant-bot\\backend\\data\\faiss.index"
+CHUNKS_PATH = "D:\\Edu\\Projects\\tour-assistant-bot\\backend\\data\\chunks.json"
+DATA_PATH = "D:\\Edu\\Projects\\tour-assistant-bot\\backend\\data\\stays.csv"  # Your accommodations CSV
 
+# def load_data():
+#     print("📂 Loading stays.csv...")
+#     df = pd.read_csv(DATA_PATH)
+#     texts = []
+#     for _, row in df.iterrows():
+#         # You can customize how the text is built
+#         text = f"{row['name']} in {row['location']} - Price: {row['price']} - Amenities: {row['amenities']}"
+#         texts.append({"text": text})
+#     return texts
 def load_data():
     print("📂 Loading stays.csv...")
     df = pd.read_csv(DATA_PATH)
+    print("🧾 Columns found:", df.columns.tolist())
+
     texts = []
     for _, row in df.iterrows():
-        # You can customize how the text is built
-        text = f"{row['name']} in {row['location']} - Price: {row['price']} - Amenities: {row['amenities']}"
+        # Safely get each field to avoid issues with missing data
+        name = row.get("name", "")
+        city = row.get("city", "")
+        price = row.get("price_bucket", "")
+        rating = row.get("rating", "")
+        tags = row.get("tags", "")
+        url = row.get("url", "")
+
+        text = (
+            f"{name} in {city} - Price category: {price} - Rating: {rating}/5 - "
+            f"Tags: {tags} - Website: {url}"
+        )
         texts.append({"text": text})
+    
     return texts
 
 def build_index():
