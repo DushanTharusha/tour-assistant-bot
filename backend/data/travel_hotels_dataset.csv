@@ -1,0 +1,401 @@
+city,name,price_bucket,rating,tags,url
+Bentota,Star Hotel,mid,4.5,central|quiet|luxury|overwater|breakfast,http://starhotel.com
+Negombo,Coral Lodge,mid,4.3,overwater|pool|central|quiet,http://corallodge.com
+Kandy,Coral Lodge,luxury,4.9,breakfast|budget|nature|beach,http://corallodge.com
+Kandy,Star Villa,budget,4.6,luxury|spa|clean,http://starvilla.com
+Kandy,Star Resort,luxury,4.5,breakfast|beach|budget,http://starresort.com
+Maldives,Hill Resort,luxury,3.7,quiet|wifi|central,http://hillresort.com
+Colombo,Coral Hotel,luxury,3.5,budget|wifi|overwater|luxury,http://coralhotel.com
+Kandy,Coral Guesthouse,mid,3.9,beach|quiet|breakfast|central|nature,http://coralguesthouse.com
+Trincomalee,Sea Villa,budget,4.0,clean|pool|overwater,http://seavilla.com
+Maldives,Hill Suites,mid,4.5,wifi|beach|budget|nature,http://hillsuites.com
+Kandy,Sky Suites,mid,4.8,central|beach|luxury,http://skysuites.com
+Galle,Sun Bungalow,luxury,4.2,wifi|spa|pool|beach,http://sunbungalow.com
+Nuwara Eliya,Sun Villa,budget,3.7,spa|beach|nature|central|quiet,http://sunvilla.com
+Negombo,Coral Lodge,budget,4.7,pool|clean|nature|breakfast,http://corallodge.com
+Nuwara Eliya,City Lodge,mid,3.7,central|luxury|spa|breakfast|wifi,http://citylodge.com
+Galle,Sea Resort,mid,4.3,beach|nature|luxury|quiet|wifi,http://searesort.com
+Galle,Star Lodge,budget,5.0,luxury|pool|clean,http://starlodge.com
+Bentota,Hill Inn,budget,4.0,spa|central|overwater,http://hillinn.com
+Galle,Sky Bungalow,budget,3.6,nature|breakfast|budget,http://skybungalow.com
+Galle,City Guesthouse,budget,4.5,wifi|spa|overwater,http://cityguesthouse.com
+Jaffna,Star Villa,budget,4.6,central|spa|wifi|pool|clean,http://starvilla.com
+Jaffna,City Suites,luxury,4.0,beach|nature|luxury|central|pool,http://citysuites.com
+Nuwara Eliya,City Resort,budget,4.3,clean|quiet|spa|pool|wifi,http://cityresort.com
+Trincomalee,Hill Villa,budget,4.2,breakfast|clean|spa|beach,http://hillvilla.com
+Bentota,Star Bungalow,luxury,4.3,budget|overwater|breakfast,http://starbungalow.com
+Jaffna,Lake Resort,budget,4.2,clean|overwater|budget|pool|nature,http://lakeresort.com
+Anuradhapura,Sky Inn,luxury,4.8,luxury|clean|nature|breakfast,http://skyinn.com
+Galle,Sun Suites,luxury,4.1,budget|overwater|beach|clean,http://sunsuites.com
+Bentota,Sky Lodge,budget,4.3,wifi|beach|clean|nature,http://skylodge.com
+Galle,Coral Inn,luxury,3.7,luxury|clean|quiet|central|pool,http://coralinn.com
+Kandy,Sky Retreat,mid,3.9,breakfast|nature|overwater|spa|wifi,http://skyretreat.com
+Kandy,Palm Lodge,mid,4.9,breakfast|central|clean|beach,http://palmlodge.com
+Negombo,Coral Retreat,luxury,4.2,clean|beach|overwater|wifi,http://coralretreat.com
+Kandy,Palm Retreat,budget,3.7,beach|nature|wifi|clean,http://palmretreat.com
+Anuradhapura,Hill Suites,luxury,4.5,spa|clean|overwater|nature,http://hillsuites.com
+Nuwara Eliya,Sun Guesthouse,mid,4.9,wifi|spa|budget|overwater|beach,http://sunguesthouse.com
+Kandy,Lake Suites,mid,3.9,spa|quiet|pool|luxury,http://lakesuites.com
+Bentota,City Resort,mid,4.2,luxury|clean|spa|nature,http://cityresort.com
+Trincomalee,Sky Retreat,mid,4.9,central|overwater|luxury|spa|wifi,http://skyretreat.com
+Kandy,Sky Lodge,budget,3.6,spa|overwater|beach|breakfast|budget,http://skylodge.com
+Colombo,Hill Hotel,budget,5.0,central|luxury|clean|breakfast|overwater,http://hillhotel.com
+Bentota,Palm Inn,luxury,4.7,spa|central|luxury|budget|overwater,http://palminn.com
+Jaffna,Palm Inn,budget,4.4,wifi|breakfast|nature|overwater|central,http://palminn.com
+Jaffna,Sea Retreat,mid,3.6,budget|beach|nature,http://searetreat.com
+Galle,Lake Lodge,luxury,3.8,budget|nature|overwater|central|clean,http://lakelodge.com
+Jaffna,Hill Bungalow,budget,3.6,spa|quiet|pool,http://hillbungalow.com
+Trincomalee,City Bungalow,mid,4.5,breakfast|clean|nature|budget,http://citybungalow.com
+Kandy,Lake Inn,luxury,4.8,clean|luxury|overwater|wifi,http://lakeinn.com
+Jaffna,Sea Bungalow,budget,3.7,overwater|luxury|wifi,http://seabungalow.com
+Bentota,Sea Resort,budget,3.7,clean|beach|budget|quiet,http://searesort.com
+Jaffna,Star Villa,luxury,5.0,wifi|nature|clean|quiet,http://starvilla.com
+Colombo,Moon Hotel,budget,4.2,nature|clean|central|luxury,http://moonhotel.com
+Kandy,Lake Resort,budget,4.3,clean|beach|central,http://lakeresort.com
+Colombo,Lake Guesthouse,mid,3.6,pool|overwater|beach,http://lakeguesthouse.com
+Jaffna,Coral Suites,mid,5.0,budget|nature|overwater|clean,http://coralsuites.com
+Jaffna,Hill Inn,luxury,4.4,luxury|overwater|quiet|beach|nature,http://hillinn.com
+Anuradhapura,Sun Resort,budget,4.8,spa|budget|quiet|beach,http://sunresort.com
+Maldives,Sun Villa,luxury,3.9,quiet|budget|spa|beach,http://sunvilla.com
+Nuwara Eliya,Sea Resort,budget,3.6,luxury|spa|quiet|wifi|breakfast,http://searesort.com
+Colombo,Star Suites,mid,4.9,central|beach|breakfast,http://starsuites.com
+Jaffna,Moon Hotel,budget,4.8,central|nature|quiet,http://moonhotel.com
+Jaffna,City Bungalow,budget,4.6,nature|luxury|overwater,http://citybungalow.com
+Bentota,Hill Bungalow,budget,4.1,nature|spa|pool|quiet|luxury,http://hillbungalow.com
+Anuradhapura,Hill Inn,budget,3.7,overwater|budget|wifi,http://hillinn.com
+Galle,Hill Retreat,luxury,3.8,pool|beach|spa,http://hillretreat.com
+Trincomalee,Sun Villa,luxury,3.8,beach|nature|wifi,http://sunvilla.com
+Galle,Palm Inn,budget,4.6,pool|central|clean|luxury,http://palminn.com
+Trincomalee,Sun Suites,mid,4.7,spa|beach|quiet|clean,http://sunsuites.com
+Maldives,Sun Inn,luxury,5.0,nature|pool|beach|quiet,http://suninn.com
+Colombo,City Bungalow,luxury,4.4,wifi|nature|overwater|pool|beach,http://citybungalow.com
+Maldives,Sky Suites,luxury,4.5,wifi|quiet|overwater,http://skysuites.com
+Bentota,Palm Retreat,mid,3.6,pool|clean|overwater|central,http://palmretreat.com
+Jaffna,Hill Resort,luxury,4.8,wifi|clean|breakfast|overwater,http://hillresort.com
+Kandy,Coral Bungalow,budget,3.9,nature|beach|pool|luxury,http://coralbungalow.com
+Bentota,Lake Bungalow,luxury,3.6,nature|wifi|quiet,http://lakebungalow.com
+Nuwara Eliya,Star Bungalow,mid,3.6,overwater|pool|spa|wifi,http://starbungalow.com
+Jaffna,Palm Inn,luxury,4.8,beach|central|quiet|luxury|clean,http://palminn.com
+Anuradhapura,Star Resort,mid,4.2,budget|nature|luxury,http://starresort.com
+Colombo,Hill Lodge,mid,3.7,nature|spa|wifi|clean,http://hilllodge.com
+Kandy,Sky Resort,mid,4.6,clean|breakfast|beach|budget,http://skyresort.com
+Nuwara Eliya,Moon Resort,budget,4.2,clean|beach|central|breakfast|nature,http://moonresort.com
+Nuwara Eliya,Palm Hotel,luxury,3.9,luxury|beach|pool,http://palmhotel.com
+Anuradhapura,Hill Hotel,mid,4.2,pool|central|overwater|nature,http://hillhotel.com
+Colombo,City Villa,luxury,4.9,breakfast|central|clean,http://cityvilla.com
+Bentota,Palm Lodge,budget,4.7,pool|budget|quiet,http://palmlodge.com
+Bentota,City Resort,luxury,4.3,quiet|spa|central|overwater,http://cityresort.com
+Kandy,Hill Guesthouse,mid,4.4,overwater|budget|quiet|clean|luxury,http://hillguesthouse.com
+Negombo,Star Villa,mid,4.4,clean|budget|beach|central,http://starvilla.com
+Jaffna,Star Guesthouse,luxury,3.5,breakfast|quiet|luxury|nature,http://starguesthouse.com
+Jaffna,City Lodge,mid,4.2,wifi|luxury|beach|clean|nature,http://citylodge.com
+Nuwara Eliya,Moon Inn,mid,4.8,nature|wifi|beach,http://mooninn.com
+Maldives,Moon Bungalow,budget,3.6,nature|beach|spa|wifi|budget,http://moonbungalow.com
+Maldives,Lake Inn,mid,5.0,budget|beach|quiet|breakfast|wifi,http://lakeinn.com
+Bentota,Sea Villa,budget,4.8,budget|wifi|pool|central|breakfast,http://seavilla.com
+Maldives,Star Bungalow,budget,3.8,luxury|pool|nature|budget|spa,http://starbungalow.com
+Negombo,Star Villa,budget,4.7,clean|wifi|luxury|quiet,http://starvilla.com
+Nuwara Eliya,Sky Resort,luxury,4.4,spa|nature|overwater,http://skyresort.com
+Galle,Lake Hotel,luxury,3.7,central|pool|beach|nature|quiet,http://lakehotel.com
+Trincomalee,Lake Lodge,budget,4.6,nature|clean|luxury,http://lakelodge.com
+Galle,Moon Inn,budget,4.8,overwater|pool|breakfast,http://mooninn.com
+Anuradhapura,Hill Retreat,budget,4.3,pool|breakfast|budget|luxury|clean,http://hillretreat.com
+Trincomalee,Palm Bungalow,luxury,3.8,central|budget|beach,http://palmbungalow.com
+Kandy,City Retreat,budget,4.7,beach|pool|breakfast|overwater,http://cityretreat.com
+Nuwara Eliya,Sky Resort,budget,4.7,clean|central|spa,http://skyresort.com
+Nuwara Eliya,Hill Bungalow,mid,4.5,central|beach|budget,http://hillbungalow.com
+Galle,Lake Lodge,budget,3.6,wifi|central|clean,http://lakelodge.com
+Colombo,Moon Villa,luxury,3.5,central|beach|overwater,http://moonvilla.com
+Kandy,Star Resort,luxury,3.6,quiet|budget|breakfast|overwater|wifi,http://starresort.com
+Kandy,Coral Inn,mid,4.3,wifi|pool|central|budget,http://coralinn.com
+Maldives,Lake Bungalow,budget,4.6,pool|overwater|nature|wifi,http://lakebungalow.com
+Anuradhapura,Sun Lodge,luxury,4.2,central|overwater|spa|luxury,http://sunlodge.com
+Anuradhapura,Star Inn,budget,4.1,beach|luxury|quiet|nature|budget,http://starinn.com
+Bentota,Palm Retreat,luxury,3.6,breakfast|clean|central|pool,http://palmretreat.com
+Kandy,Star Hotel,mid,4.0,central|luxury|clean|pool,http://starhotel.com
+Kandy,Coral Suites,mid,3.6,overwater|quiet|pool,http://coralsuites.com
+Colombo,Sun Retreat,mid,4.8,spa|luxury|beach|breakfast,http://sunretreat.com
+Colombo,Lake Hotel,budget,4.1,quiet|luxury|beach|wifi|central,http://lakehotel.com
+Bentota,Hill Resort,budget,4.8,spa|breakfast|quiet,http://hillresort.com
+Jaffna,City Bungalow,budget,4.9,wifi|spa|nature|breakfast,http://citybungalow.com
+Nuwara Eliya,Sun Bungalow,luxury,4.4,pool|clean|breakfast|nature,http://sunbungalow.com
+Jaffna,Lake Bungalow,mid,4.6,clean|beach|budget,http://lakebungalow.com
+Nuwara Eliya,City Bungalow,budget,3.6,quiet|central|nature|spa|overwater,http://citybungalow.com
+Galle,Lake Suites,mid,3.9,clean|nature|breakfast,http://lakesuites.com
+Bentota,Hill Lodge,luxury,4.4,breakfast|quiet|spa,http://hilllodge.com
+Kandy,Palm Retreat,mid,3.7,nature|beach|central|wifi|overwater,http://palmretreat.com
+Kandy,City Bungalow,mid,4.0,beach|pool|luxury|wifi|budget,http://citybungalow.com
+Jaffna,Moon Lodge,budget,4.0,central|wifi|budget|pool,http://moonlodge.com
+Bentota,Star Hotel,budget,3.6,central|overwater|quiet|luxury|wifi,http://starhotel.com
+Colombo,Coral Retreat,budget,3.7,clean|spa|quiet|wifi,http://coralretreat.com
+Galle,Star Lodge,budget,4.2,quiet|overwater|nature|wifi,http://starlodge.com
+Nuwara Eliya,Coral Suites,luxury,4.2,quiet|luxury|central,http://coralsuites.com
+Nuwara Eliya,Star Inn,mid,4.0,luxury|breakfast|overwater,http://starinn.com
+Nuwara Eliya,Star Guesthouse,luxury,3.9,central|budget|wifi|clean,http://starguesthouse.com
+Trincomalee,Palm Bungalow,luxury,3.7,budget|quiet|pool,http://palmbungalow.com
+Maldives,Star Lodge,budget,4.6,spa|nature|overwater|breakfast,http://starlodge.com
+Anuradhapura,Lake Suites,budget,3.5,breakfast|budget|overwater,http://lakesuites.com
+Maldives,Palm Retreat,luxury,3.9,quiet|nature|budget|spa|clean,http://palmretreat.com
+Galle,Sky Hotel,mid,4.3,nature|budget|central,http://skyhotel.com
+Colombo,Sky Bungalow,budget,4.4,luxury|clean|budget,http://skybungalow.com
+Anuradhapura,Moon Villa,mid,4.9,breakfast|nature|budget,http://moonvilla.com
+Colombo,Palm Bungalow,budget,4.0,central|nature|spa,http://palmbungalow.com
+Trincomalee,Sky Resort,luxury,4.6,budget|overwater|wifi|beach|luxury,http://skyresort.com
+Maldives,Hill Suites,budget,4.7,pool|beach|spa|central,http://hillsuites.com
+Anuradhapura,Coral Inn,budget,3.7,nature|central|luxury|budget,http://coralinn.com
+Anuradhapura,Palm Guesthouse,budget,4.0,pool|breakfast|spa,http://palmguesthouse.com
+Bentota,Moon Bungalow,budget,3.7,wifi|budget|central|spa,http://moonbungalow.com
+Kandy,Sea Retreat,mid,3.8,central|pool|nature,http://searetreat.com
+Bentota,Moon Guesthouse,mid,4.1,budget|overwater|central,http://moonguesthouse.com
+Kandy,Coral Bungalow,luxury,3.9,wifi|breakfast|beach|nature,http://coralbungalow.com
+Maldives,Star Hotel,budget,5.0,luxury|wifi|quiet|spa,http://starhotel.com
+Jaffna,Coral Resort,luxury,3.9,central|overwater|nature|beach|wifi,http://coralresort.com
+Negombo,Star Bungalow,budget,4.5,spa|pool|clean|beach,http://starbungalow.com
+Nuwara Eliya,Sky Hotel,mid,3.6,luxury|central|clean|breakfast,http://skyhotel.com
+Galle,Moon Hotel,luxury,3.9,breakfast|nature|pool,http://moonhotel.com
+Nuwara Eliya,Sun Resort,mid,3.8,beach|breakfast|clean,http://sunresort.com
+Anuradhapura,Sky Villa,budget,4.8,spa|overwater|beach|central,http://skyvilla.com
+Colombo,Hill Resort,mid,3.8,pool|breakfast|budget|clean|quiet,http://hillresort.com
+Maldives,Moon Lodge,budget,3.8,wifi|quiet|clean|overwater,http://moonlodge.com
+Jaffna,Hill Guesthouse,budget,4.3,pool|overwater|beach|spa|central,http://hillguesthouse.com
+Trincomalee,City Guesthouse,budget,3.5,beach|nature|spa|central|overwater,http://cityguesthouse.com
+Maldives,Star Bungalow,budget,4.9,quiet|spa|nature|luxury,http://starbungalow.com
+Trincomalee,Sky Resort,budget,4.2,quiet|spa|central,http://skyresort.com
+Colombo,Lake Bungalow,mid,3.9,wifi|nature|breakfast|quiet|budget,http://lakebungalow.com
+Bentota,Lake Hotel,luxury,4.9,nature|central|breakfast|budget,http://lakehotel.com
+Trincomalee,Coral Hotel,luxury,4.0,central|clean|overwater,http://coralhotel.com
+Trincomalee,Sun Guesthouse,luxury,3.8,beach|pool|budget,http://sunguesthouse.com
+Maldives,Star Hotel,budget,4.4,luxury|nature|breakfast,http://starhotel.com
+Anuradhapura,Sky Guesthouse,luxury,4.1,nature|quiet|central|breakfast|budget,http://skyguesthouse.com
+Galle,Sun Resort,budget,4.8,clean|overwater|spa,http://sunresort.com
+Jaffna,Coral Lodge,budget,4.1,breakfast|budget|spa,http://corallodge.com
+Trincomalee,City Inn,luxury,4.1,spa|nature|overwater|wifi|clean,http://cityinn.com
+Kandy,Star Retreat,luxury,3.8,overwater|breakfast|nature,http://starretreat.com
+Nuwara Eliya,City Inn,mid,4.4,budget|luxury|beach|spa|clean,http://cityinn.com
+Colombo,City Lodge,budget,4.1,beach|quiet|wifi|spa|pool,http://citylodge.com
+Colombo,Hill Resort,budget,4.0,wifi|central|beach|breakfast,http://hillresort.com
+Maldives,Star Hotel,mid,4.5,beach|central|budget,http://starhotel.com
+Negombo,City Resort,mid,4.4,clean|pool|quiet|budget|central,http://cityresort.com
+Negombo,Palm Villa,budget,4.4,pool|overwater|budget,http://palmvilla.com
+Maldives,Palm Inn,mid,4.3,luxury|central|breakfast|budget,http://palminn.com
+Maldives,Sun Hotel,budget,3.5,spa|clean|pool|overwater,http://sunhotel.com
+Maldives,Hill Lodge,luxury,3.6,spa|luxury|central,http://hilllodge.com
+Nuwara Eliya,Sea Bungalow,budget,3.6,central|clean|breakfast,http://seabungalow.com
+Colombo,Sky Suites,mid,4.9,wifi|luxury|clean,http://skysuites.com
+Kandy,City Guesthouse,mid,4.5,budget|beach|central,http://cityguesthouse.com
+Jaffna,Palm Resort,luxury,4.9,breakfast|clean|beach|budget,http://palmresort.com
+Maldives,Sky Hotel,mid,4.9,central|clean|breakfast|beach,http://skyhotel.com
+Galle,Lake Guesthouse,luxury,4.7,budget|breakfast|spa,http://lakeguesthouse.com
+Galle,Sun Inn,luxury,4.0,spa|luxury|pool|quiet,http://suninn.com
+Galle,Palm Inn,budget,3.8,beach|quiet|breakfast,http://palminn.com
+Bentota,Sea Suites,budget,4.3,central|luxury|quiet|breakfast|budget,http://seasuites.com
+Negombo,Moon Guesthouse,luxury,4.7,central|spa|wifi,http://moonguesthouse.com
+Maldives,Palm Hotel,mid,3.7,budget|overwater|central|breakfast|beach,http://palmhotel.com
+Colombo,Hill Suites,budget,4.9,quiet|wifi|beach|overwater|spa,http://hillsuites.com
+Kandy,Hill Hotel,luxury,4.5,wifi|luxury|breakfast|budget|spa,http://hillhotel.com
+Anuradhapura,Lake Suites,luxury,4.6,central|clean|budget,http://lakesuites.com
+Bentota,Star Inn,mid,3.6,pool|nature|budget|clean,http://starinn.com
+Colombo,Sun Hotel,luxury,4.9,wifi|central|overwater|nature,http://sunhotel.com
+Colombo,Moon Hotel,budget,3.7,clean|nature|overwater|central,http://moonhotel.com
+Nuwara Eliya,Moon Suites,mid,4.2,wifi|breakfast|beach,http://moonsuites.com
+Bentota,Sun Resort,budget,4.4,clean|nature|luxury|central,http://sunresort.com
+Anuradhapura,Hill Villa,budget,4.2,pool|breakfast|central,http://hillvilla.com
+Kandy,Moon Resort,budget,3.6,breakfast|central|beach|budget|luxury,http://moonresort.com
+Kandy,Sky Hotel,budget,4.3,wifi|breakfast|spa|luxury|beach,http://skyhotel.com
+Bentota,Star Guesthouse,mid,4.1,pool|budget|beach|clean|central,http://starguesthouse.com
+Colombo,Hill Resort,mid,3.9,overwater|clean|breakfast|wifi|pool,http://hillresort.com
+Jaffna,Moon Retreat,budget,4.5,budget|clean|spa,http://moonretreat.com
+Jaffna,Moon Inn,budget,4.0,overwater|breakfast|wifi,http://mooninn.com
+Trincomalee,Palm Hotel,budget,4.1,beach|budget|luxury,http://palmhotel.com
+Trincomalee,Moon Bungalow,budget,4.6,luxury|nature|beach|pool|wifi,http://moonbungalow.com
+Bentota,Sun Hotel,budget,4.7,quiet|beach|pool|clean,http://sunhotel.com
+Nuwara Eliya,Moon Retreat,luxury,5.0,luxury|nature|budget,http://moonretreat.com
+Nuwara Eliya,Hill Inn,budget,4.5,nature|clean|overwater,http://hillinn.com
+Bentota,City Retreat,luxury,4.9,spa|breakfast|budget|overwater,http://cityretreat.com
+Maldives,City Lodge,budget,4.7,wifi|overwater|nature|quiet,http://citylodge.com
+Kandy,Sun Retreat,luxury,4.9,overwater|pool|spa|central,http://sunretreat.com
+Nuwara Eliya,Sun Suites,mid,4.8,pool|budget|clean,http://sunsuites.com
+Trincomalee,City Hotel,mid,4.4,spa|luxury|central|beach|clean,http://cityhotel.com
+Colombo,Palm Resort,luxury,3.5,luxury|wifi|central|beach|overwater,http://palmresort.com
+Bentota,Palm Guesthouse,budget,4.4,central|luxury|beach|clean|spa,http://palmguesthouse.com
+Galle,Moon Suites,luxury,4.4,wifi|breakfast|luxury,http://moonsuites.com
+Kandy,City Guesthouse,luxury,3.5,beach|budget|clean|quiet|breakfast,http://cityguesthouse.com
+Nuwara Eliya,Moon Guesthouse,budget,4.6,overwater|central|nature|clean|pool,http://moonguesthouse.com
+Jaffna,City Lodge,mid,3.7,nature|central|overwater|beach|breakfast,http://citylodge.com
+Bentota,Hill Resort,budget,4.6,clean|overwater|breakfast|wifi|central,http://hillresort.com
+Maldives,Sun Hotel,luxury,3.7,quiet|central|luxury,http://sunhotel.com
+Colombo,Palm Villa,mid,4.2,luxury|nature|central|spa,http://palmvilla.com
+Bentota,Lake Lodge,mid,4.0,wifi|pool|breakfast|central,http://lakelodge.com
+Galle,Hill Inn,mid,4.6,wifi|quiet|central|breakfast|overwater,http://hillinn.com
+Trincomalee,Lake Bungalow,mid,5.0,breakfast|luxury|clean|quiet,http://lakebungalow.com
+Trincomalee,Star Resort,mid,3.9,nature|central|pool|breakfast|luxury,http://starresort.com
+Jaffna,Star Guesthouse,luxury,4.6,wifi|budget|central|pool,http://starguesthouse.com
+Kandy,Sun Resort,luxury,3.8,overwater|breakfast|spa|central|pool,http://sunresort.com
+Galle,Star Inn,mid,4.2,spa|wifi|quiet|nature,http://starinn.com
+Colombo,Sky Inn,mid,4.4,luxury|breakfast|clean|pool|central,http://skyinn.com
+Negombo,Coral Villa,luxury,4.8,overwater|nature|quiet,http://coralvilla.com
+Trincomalee,Moon Inn,budget,3.6,budget|pool|luxury,http://mooninn.com
+Jaffna,Palm Resort,budget,4.1,breakfast|overwater|beach,http://palmresort.com
+Galle,Moon Villa,mid,4.0,pool|spa|clean,http://moonvilla.com
+Kandy,Sun Villa,budget,4.6,beach|clean|luxury,http://sunvilla.com
+Colombo,Moon Guesthouse,luxury,4.9,luxury|clean|spa|overwater,http://moonguesthouse.com
+Trincomalee,Lake Lodge,mid,3.6,luxury|clean|wifi|beach,http://lakelodge.com
+Nuwara Eliya,Star Suites,mid,4.3,budget|nature|overwater|beach|spa,http://starsuites.com
+Jaffna,Sky Hotel,budget,4.1,clean|overwater|budget,http://skyhotel.com
+Kandy,Coral Guesthouse,budget,4.4,clean|quiet|overwater,http://coralguesthouse.com
+Negombo,Sun Suites,budget,4.6,wifi|breakfast|luxury,http://sunsuites.com
+Maldives,Lake Inn,budget,4.4,pool|wifi|luxury|nature|spa,http://lakeinn.com
+Trincomalee,Sea Retreat,luxury,4.8,budget|pool|spa|nature|overwater,http://searetreat.com
+Galle,Moon Retreat,luxury,4.3,breakfast|pool|clean,http://moonretreat.com
+Negombo,City Retreat,luxury,3.8,quiet|budget|wifi|beach|pool,http://cityretreat.com
+Colombo,Coral Lodge,budget,3.6,clean|breakfast|wifi|central|quiet,http://corallodge.com
+Bentota,Sky Bungalow,mid,4.0,central|clean|pool,http://skybungalow.com
+Colombo,Palm Guesthouse,luxury,4.5,pool|quiet|overwater|budget,http://palmguesthouse.com
+Anuradhapura,Moon Suites,luxury,4.4,central|wifi|pool|luxury|spa,http://moonsuites.com
+Trincomalee,Sea Bungalow,luxury,3.5,quiet|breakfast|central|beach,http://seabungalow.com
+Trincomalee,Hill Inn,mid,4.0,budget|quiet|clean|breakfast,http://hillinn.com
+Galle,Moon Resort,budget,4.6,pool|beach|spa,http://moonresort.com
+Nuwara Eliya,City Bungalow,mid,3.8,central|nature|clean|quiet,http://citybungalow.com
+Nuwara Eliya,Moon Bungalow,luxury,4.4,quiet|budget|nature|spa,http://moonbungalow.com
+Anuradhapura,Palm Guesthouse,mid,4.7,spa|budget|breakfast|pool|wifi,http://palmguesthouse.com
+Nuwara Eliya,Sea Resort,mid,4.9,beach|quiet|budget|central,http://searesort.com
+Anuradhapura,Sky Bungalow,mid,4.3,clean|wifi|budget,http://skybungalow.com
+Jaffna,Sky Guesthouse,luxury,4.2,beach|overwater|pool,http://skyguesthouse.com
+Negombo,Sea Inn,budget,3.9,budget|pool|nature,http://seainn.com
+Bentota,Star Hotel,mid,3.8,breakfast|beach|clean|quiet,http://starhotel.com
+Kandy,Palm Hotel,mid,3.7,quiet|luxury|clean|beach,http://palmhotel.com
+Kandy,Moon Bungalow,budget,4.2,breakfast|budget|wifi,http://moonbungalow.com
+Colombo,Moon Lodge,budget,3.6,quiet|wifi|central|pool,http://moonlodge.com
+Maldives,Sun Guesthouse,budget,4.9,central|spa|nature|overwater|budget,http://sunguesthouse.com
+Negombo,Sun Retreat,budget,3.7,nature|luxury|pool|central,http://sunretreat.com
+Anuradhapura,Palm Retreat,mid,4.9,beach|central|pool|breakfast|quiet,http://palmretreat.com
+Jaffna,Palm Bungalow,luxury,4.7,pool|clean|beach,http://palmbungalow.com
+Bentota,Lake Guesthouse,mid,4.1,budget|pool|central,http://lakeguesthouse.com
+Nuwara Eliya,Sun Resort,budget,4.3,budget|wifi|pool,http://sunresort.com
+Trincomalee,Moon Guesthouse,mid,4.3,overwater|budget|pool|beach|spa,http://moonguesthouse.com
+Maldives,Sun Resort,luxury,4.3,luxury|clean|beach|wifi,http://sunresort.com
+Jaffna,Hill Villa,mid,3.6,spa|overwater|budget,http://hillvilla.com
+Trincomalee,City Hotel,luxury,4.4,luxury|beach|central,http://cityhotel.com
+Anuradhapura,Hill Guesthouse,mid,4.2,beach|clean|overwater|wifi,http://hillguesthouse.com
+Colombo,Lake Hotel,budget,4.5,quiet|luxury|budget|nature|clean,http://lakehotel.com
+Galle,Star Resort,budget,4.6,central|overwater|breakfast|quiet|clean,http://starresort.com
+Galle,Palm Lodge,budget,4.9,central|clean|quiet,http://palmlodge.com
+Bentota,Hill Villa,budget,3.7,wifi|central|clean|quiet,http://hillvilla.com
+Bentota,Sun Retreat,mid,4.9,wifi|luxury|budget|breakfast|pool,http://sunretreat.com
+Negombo,City Suites,luxury,4.1,spa|budget|luxury|wifi,http://citysuites.com
+Jaffna,Star Retreat,budget,3.6,budget|nature|pool,http://starretreat.com
+Anuradhapura,Lake Villa,budget,4.9,central|wifi|spa|overwater,http://lakevilla.com
+Negombo,Sky Bungalow,luxury,3.6,luxury|breakfast|central|quiet|spa,http://skybungalow.com
+Maldives,Lake Hotel,luxury,4.6,overwater|budget|spa,http://lakehotel.com
+Galle,Sky Lodge,budget,4.3,overwater|wifi|central|spa,http://skylodge.com
+Bentota,City Guesthouse,budget,5.0,luxury|wifi|overwater|central|clean,http://cityguesthouse.com
+Anuradhapura,City Bungalow,luxury,3.8,spa|overwater|beach,http://citybungalow.com
+Nuwara Eliya,Sky Resort,budget,4.1,central|overwater|wifi|clean|nature,http://skyresort.com
+Negombo,Hill Hotel,budget,4.4,wifi|pool|central|luxury,http://hillhotel.com
+Bentota,Sky Hotel,budget,4.2,quiet|overwater|nature,http://skyhotel.com
+Trincomalee,City Villa,budget,4.2,central|clean|overwater|pool,http://cityvilla.com
+Galle,Palm Suites,mid,4.3,pool|wifi|overwater|breakfast|budget,http://palmsuites.com
+Bentota,Coral Lodge,mid,4.8,luxury|pool|central|wifi,http://corallodge.com
+Kandy,Lake Villa,mid,3.7,quiet|pool|spa|wifi,http://lakevilla.com
+Jaffna,Lake Lodge,budget,3.8,spa|wifi|beach|budget|overwater,http://lakelodge.com
+Colombo,Hill Hotel,budget,3.8,overwater|nature|budget|central,http://hillhotel.com
+Negombo,Star Lodge,luxury,4.3,pool|spa|budget|clean|wifi,http://starlodge.com
+Bentota,Palm Bungalow,luxury,4.3,quiet|luxury|wifi|beach|pool,http://palmbungalow.com
+Trincomalee,Moon Inn,mid,3.5,overwater|spa|quiet|pool,http://mooninn.com
+Anuradhapura,Sun Bungalow,luxury,4.3,budget|quiet|beach|clean|spa,http://sunbungalow.com
+Anuradhapura,Sky Guesthouse,luxury,4.3,nature|beach|wifi,http://skyguesthouse.com
+Negombo,Sky Suites,budget,5.0,wifi|beach|overwater|breakfast,http://skysuites.com
+Bentota,Sun Resort,budget,4.5,overwater|breakfast|pool|beach,http://sunresort.com
+Galle,Star Lodge,budget,4.9,central|beach|quiet,http://starlodge.com
+Kandy,Lake Hotel,budget,4.8,pool|quiet|breakfast|wifi|clean,http://lakehotel.com
+Colombo,Moon Inn,luxury,3.8,spa|nature|beach|luxury|wifi,http://mooninn.com
+Colombo,Sun Villa,luxury,3.5,budget|pool|wifi|nature,http://sunvilla.com
+Colombo,Lake Guesthouse,budget,3.8,beach|budget|spa,http://lakeguesthouse.com
+Bentota,Lake Lodge,budget,3.8,nature|luxury|pool,http://lakelodge.com
+Galle,Moon Villa,mid,4.5,wifi|quiet|nature|breakfast|budget,http://moonvilla.com
+Bentota,City Inn,mid,3.9,beach|nature|central|quiet,http://cityinn.com
+Jaffna,Hill Lodge,luxury,3.6,wifi|budget|spa|overwater,http://hilllodge.com
+Galle,Moon Bungalow,luxury,5.0,budget|spa|breakfast|clean,http://moonbungalow.com
+Negombo,Sun Resort,budget,4.5,overwater|spa|beach|luxury|budget,http://sunresort.com
+Jaffna,Lake Retreat,mid,4.9,quiet|central|overwater|wifi|clean,http://lakeretreat.com
+Negombo,Sun Retreat,luxury,3.5,central|budget|beach|pool|quiet,http://sunretreat.com
+Bentota,Star Villa,budget,3.5,spa|quiet|overwater,http://starvilla.com
+Nuwara Eliya,Sun Resort,budget,4.6,spa|wifi|overwater|nature|pool,http://sunresort.com
+Negombo,Sun Suites,luxury,4.2,quiet|clean|central|wifi,http://sunsuites.com
+Galle,Sea Retreat,luxury,4.2,beach|overwater|spa|quiet|luxury,http://searetreat.com
+Colombo,Moon Retreat,luxury,3.7,pool|overwater|breakfast|nature,http://moonretreat.com
+Trincomalee,Star Hotel,mid,3.7,quiet|clean|overwater|beach|budget,http://starhotel.com
+Maldives,Palm Suites,mid,4.2,quiet|spa|pool|beach,http://palmsuites.com
+Colombo,Sea Guesthouse,mid,4.8,nature|luxury|beach|clean,http://seaguesthouse.com
+Kandy,Sun Villa,budget,3.7,luxury|budget|nature|pool,http://sunvilla.com
+Trincomalee,Sky Suites,luxury,4.7,luxury|breakfast|wifi,http://skysuites.com
+Colombo,Sea Retreat,mid,3.7,pool|breakfast|central|beach,http://searetreat.com
+Anuradhapura,Moon Hotel,mid,4.1,breakfast|central|quiet|pool,http://moonhotel.com
+Negombo,City Inn,mid,4.9,overwater|spa|quiet,http://cityinn.com
+Maldives,Moon Hotel,mid,3.9,nature|pool|central|breakfast,http://moonhotel.com
+Jaffna,Sky Lodge,budget,3.8,luxury|spa|quiet,http://skylodge.com
+Galle,City Lodge,budget,4.5,nature|luxury|clean,http://citylodge.com
+Anuradhapura,Sea Inn,budget,4.2,spa|pool|beach|quiet,http://seainn.com
+Nuwara Eliya,Star Suites,luxury,3.8,wifi|luxury|clean,http://starsuites.com
+Anuradhapura,Moon Hotel,luxury,4.0,luxury|central|clean|budget,http://moonhotel.com
+Kandy,Palm Bungalow,budget,4.5,wifi|pool|beach|luxury,http://palmbungalow.com
+Colombo,Sky Inn,mid,3.8,breakfast|quiet|budget|pool|nature,http://skyinn.com
+Trincomalee,Sky Lodge,mid,3.6,spa|nature|luxury|budget,http://skylodge.com
+Nuwara Eliya,Lake Bungalow,mid,4.4,pool|quiet|luxury|central,http://lakebungalow.com
+Negombo,City Hotel,luxury,4.0,overwater|beach|clean|breakfast,http://cityhotel.com
+Galle,Palm Suites,budget,4.3,quiet|pool|wifi,http://palmsuites.com
+Kandy,City Resort,budget,4.4,wifi|luxury|overwater|spa,http://cityresort.com
+Galle,Sea Lodge,luxury,3.6,nature|pool|overwater,http://sealodge.com
+Trincomalee,Hill Villa,budget,4.4,nature|beach|luxury|pool,http://hillvilla.com
+Galle,Sky Lodge,luxury,4.8,spa|pool|central,http://skylodge.com
+Nuwara Eliya,Sun Inn,budget,4.0,quiet|pool|luxury|central|wifi,http://suninn.com
+Trincomalee,Palm Hotel,luxury,4.5,spa|beach|luxury|quiet|breakfast,http://palmhotel.com
+Jaffna,Moon Guesthouse,mid,4.7,wifi|overwater|clean|beach|quiet,http://moonguesthouse.com
+Kandy,Lake Villa,mid,4.6,beach|central|breakfast,http://lakevilla.com
+Galle,Sea Villa,luxury,4.3,overwater|beach|nature,http://seavilla.com
+Anuradhapura,Coral Lodge,luxury,4.5,central|spa|overwater|beach,http://corallodge.com
+Jaffna,Sea Bungalow,mid,3.8,luxury|budget|spa|pool|beach,http://seabungalow.com
+Trincomalee,City Hotel,budget,4.2,clean|wifi|budget|pool,http://cityhotel.com
+Nuwara Eliya,Sun Bungalow,budget,4.0,luxury|pool|budget|nature,http://sunbungalow.com
+Anuradhapura,Sun Retreat,budget,3.9,budget|spa|pool|nature|overwater,http://sunretreat.com
+Trincomalee,Star Bungalow,luxury,4.0,overwater|luxury|clean,http://starbungalow.com
+Negombo,Lake Villa,mid,4.8,pool|breakfast|clean,http://lakevilla.com
+Nuwara Eliya,Palm Retreat,luxury,3.7,budget|clean|luxury|spa|quiet,http://palmretreat.com
+Colombo,City Suites,budget,3.8,wifi|luxury|central|budget|clean,http://citysuites.com
+Bentota,Sky Suites,mid,3.6,wifi|breakfast|nature,http://skysuites.com
+Kandy,Sky Inn,mid,4.0,beach|overwater|nature,http://skyinn.com
+Jaffna,Coral Inn,mid,3.6,spa|wifi|luxury,http://coralinn.com
+Anuradhapura,Coral Resort,budget,3.7,overwater|beach|pool,http://coralresort.com
+Anuradhapura,City Retreat,mid,4.1,budget|nature|central,http://cityretreat.com
+Nuwara Eliya,Moon Lodge,mid,5.0,wifi|breakfast|beach|central,http://moonlodge.com
+Nuwara Eliya,City Villa,mid,4.6,quiet|nature|overwater,http://cityvilla.com
+Galle,Lake Villa,luxury,4.4,beach|overwater|budget,http://lakevilla.com
+Galle,Sun Bungalow,mid,3.7,overwater|wifi|pool,http://sunbungalow.com
+Nuwara Eliya,Moon Resort,mid,3.9,wifi|breakfast|nature,http://moonresort.com
+Colombo,Palm Retreat,mid,4.6,wifi|budget|quiet,http://palmretreat.com
+Trincomalee,City Villa,luxury,3.6,spa|wifi|breakfast|nature,http://cityvilla.com
+Maldives,Palm Lodge,budget,4.0,central|nature|budget|beach|wifi,http://palmlodge.com
+Colombo,Sky Bungalow,mid,3.6,breakfast|luxury|beach|overwater|budget,http://skybungalow.com
+Bentota,City Guesthouse,budget,4.0,central|nature|luxury|overwater|breakfast,http://cityguesthouse.com
+Anuradhapura,Coral Lodge,mid,4.3,overwater|luxury|budget,http://corallodge.com
+Colombo,Hill Hotel,mid,4.4,overwater|breakfast|central|nature|luxury,http://hillhotel.com
+Bentota,Sky Inn,budget,3.7,pool|quiet|luxury|overwater,http://skyinn.com
+Maldives,Lake Retreat,mid,4.6,budget|spa|beach|overwater,http://lakeretreat.com
+Bentota,Sky Bungalow,mid,3.7,luxury|overwater|clean,http://skybungalow.com
+Galle,City Guesthouse,budget,5.0,clean|beach|central|overwater|luxury,http://cityguesthouse.com
+Nuwara Eliya,Moon Bungalow,mid,4.4,breakfast|budget|luxury,http://moonbungalow.com
+Negombo,Sea Suites,luxury,4.0,beach|clean|central,http://seasuites.com
+Kandy,Sun Suites,budget,4.3,spa|beach|overwater|wifi|central,http://sunsuites.com
+Jaffna,Palm Lodge,mid,4.6,clean|quiet|luxury|breakfast,http://palmlodge.com
+Negombo,Sky Inn,budget,4.1,clean|spa|pool,http://skyinn.com
+Colombo,Hill Hotel,budget,5.0,luxury|breakfast|pool|central|wifi,http://hillhotel.com
+Maldives,Coral Resort,budget,4.1,wifi|beach|pool|budget,http://coralresort.com
+Colombo,Coral Bungalow,luxury,4.1,overwater|quiet|spa|pool|budget,http://coralbungalow.com
+Maldives,Sun Guesthouse,budget,4.8,central|breakfast|budget,http://sunguesthouse.com
+Jaffna,Sea Retreat,luxury,4.7,clean|central|pool,http://searetreat.com
+Bentota,Star Suites,budget,3.5,breakfast|overwater|quiet|clean,http://starsuites.com
+Jaffna,Moon Suites,mid,3.9,spa|budget|overwater,http://moonsuites.com
+Galle,Palm Bungalow,mid,3.8,wifi|beach|clean|nature,http://palmbungalow.com
+Trincomalee,Coral Villa,mid,4.1,spa|overwater|budget|pool|nature,http://coralvilla.com
+Negombo,Sky Inn,budget,4.2,clean|spa|central,http://skyinn.com
+Jaffna,Star Lodge,budget,4.9,breakfast|spa|nature|quiet|pool,http://starlodge.com

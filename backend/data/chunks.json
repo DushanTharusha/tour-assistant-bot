@@ -1,14 +1,1202 @@
 [
   {
-    "text": "City Inn in Colombo - Price category: budget - Rating: 4.2/5 - Tags: beach|wifi|central - Website: http://cityinn.com"
+    "text": "Star Hotel in Bentota - Price category: mid - Rating: 4.5/5 - Tags: central|quiet|luxury|overwater|breakfast - Website: http://starhotel.com"
   },
   {
-    "text": "Seaside Villa in Galle - Price category: mid - Rating: 4.7/5 - Tags: beach|luxury|quiet - Website: http://seasidevilla.com"
+    "text": "Coral Lodge in Negombo - Price category: mid - Rating: 4.3/5 - Tags: overwater|pool|central|quiet - Website: http://corallodge.com"
   },
   {
-    "text": "Hill View Guesthouse in Kandy - Price category: budget - Rating: 4.1/5 - Tags: nature|budget|clean - Website: http://hillview.com"
+    "text": "Coral Lodge in Kandy - Price category: luxury - Rating: 4.9/5 - Tags: breakfast|budget|nature|beach - Website: http://corallodge.com"
   },
   {
-    "text": "Sand Island Resort in Maldives - Price category: luxury - Rating: 4.9/5 - Tags: luxury|overwater|beach - Website: http://sandresort.com"
+    "text": "Star Villa in Kandy - Price category: budget - Rating: 4.6/5 - Tags: luxury|spa|clean - Website: http://starvilla.com"
+  },
+  {
+    "text": "Star Resort in Kandy - Price category: luxury - Rating: 4.5/5 - Tags: breakfast|beach|budget - Website: http://starresort.com"
+  },
+  {
+    "text": "Hill Resort in Maldives - Price category: luxury - Rating: 3.7/5 - Tags: quiet|wifi|central - Website: http://hillresort.com"
+  },
+  {
+    "text": "Coral Hotel in Colombo - Price category: luxury - Rating: 3.5/5 - Tags: budget|wifi|overwater|luxury - Website: http://coralhotel.com"
+  },
+  {
+    "text": "Coral Guesthouse in Kandy - Price category: mid - Rating: 3.9/5 - Tags: beach|quiet|breakfast|central|nature - Website: http://coralguesthouse.com"
+  },
+  {
+    "text": "Sea Villa in Trincomalee - Price category: budget - Rating: 4.0/5 - Tags: clean|pool|overwater - Website: http://seavilla.com"
+  },
+  {
+    "text": "Hill Suites in Maldives - Price category: mid - Rating: 4.5/5 - Tags: wifi|beach|budget|nature - Website: http://hillsuites.com"
+  },
+  {
+    "text": "Sky Suites in Kandy - Price category: mid - Rating: 4.8/5 - Tags: central|beach|luxury - Website: http://skysuites.com"
+  },
+  {
+    "text": "Sun Bungalow in Galle - Price category: luxury - Rating: 4.2/5 - Tags: wifi|spa|pool|beach - Website: http://sunbungalow.com"
+  },
+  {
+    "text": "Sun Villa in Nuwara Eliya - Price category: budget - Rating: 3.7/5 - Tags: spa|beach|nature|central|quiet - Website: http://sunvilla.com"
+  },
+  {
+    "text": "Coral Lodge in Negombo - Price category: budget - Rating: 4.7/5 - Tags: pool|clean|nature|breakfast - Website: http://corallodge.com"
+  },
+  {
+    "text": "City Lodge in Nuwara Eliya - Price category: mid - Rating: 3.7/5 - Tags: central|luxury|spa|breakfast|wifi - Website: http://citylodge.com"
+  },
+  {
+    "text": "Sea Resort in Galle - Price category: mid - Rating: 4.3/5 - Tags: beach|nature|luxury|quiet|wifi - Website: http://searesort.com"
+  },
+  {
+    "text": "Star Lodge in Galle - Price category: budget - Rating: 5.0/5 - Tags: luxury|pool|clean - Website: http://starlodge.com"
+  },
+  {
+    "text": "Hill Inn in Bentota - Price category: budget - Rating: 4.0/5 - Tags: spa|central|overwater - Website: http://hillinn.com"
+  },
+  {
+    "text": "Sky Bungalow in Galle - Price category: budget - Rating: 3.6/5 - Tags: nature|breakfast|budget - Website: http://skybungalow.com"
+  },
+  {
+    "text": "City Guesthouse in Galle - Price category: budget - Rating: 4.5/5 - Tags: wifi|spa|overwater - Website: http://cityguesthouse.com"
+  },
+  {
+    "text": "Star Villa in Jaffna - Price category: budget - Rating: 4.6/5 - Tags: central|spa|wifi|pool|clean - Website: http://starvilla.com"
+  },
+  {
+    "text": "City Suites in Jaffna - Price category: luxury - Rating: 4.0/5 - Tags: beach|nature|luxury|central|pool - Website: http://citysuites.com"
+  },
+  {
+    "text": "City Resort in Nuwara Eliya - Price category: budget - Rating: 4.3/5 - Tags: clean|quiet|spa|pool|wifi - Website: http://cityresort.com"
+  },
+  {
+    "text": "Hill Villa in Trincomalee - Price category: budget - Rating: 4.2/5 - Tags: breakfast|clean|spa|beach - Website: http://hillvilla.com"
+  },
+  {
+    "text": "Star Bungalow in Bentota - Price category: luxury - Rating: 4.3/5 - Tags: budget|overwater|breakfast - Website: http://starbungalow.com"
+  },
+  {
+    "text": "Lake Resort in Jaffna - Price category: budget - Rating: 4.2/5 - Tags: clean|overwater|budget|pool|nature - Website: http://lakeresort.com"
+  },
+  {
+    "text": "Sky Inn in Anuradhapura - Price category: luxury - Rating: 4.8/5 - Tags: luxury|clean|nature|breakfast - Website: http://skyinn.com"
+  },
+  {
+    "text": "Sun Suites in Galle - Price category: luxury - Rating: 4.1/5 - Tags: budget|overwater|beach|clean - Website: http://sunsuites.com"
+  },
+  {
+    "text": "Sky Lodge in Bentota - Price category: budget - Rating: 4.3/5 - Tags: wifi|beach|clean|nature - Website: http://skylodge.com"
+  },
+  {
+    "text": "Coral Inn in Galle - Price category: luxury - Rating: 3.7/5 - Tags: luxury|clean|quiet|central|pool - Website: http://coralinn.com"
+  },
+  {
+    "text": "Sky Retreat in Kandy - Price category: mid - Rating: 3.9/5 - Tags: breakfast|nature|overwater|spa|wifi - Website: http://skyretreat.com"
+  },
+  {
+    "text": "Palm Lodge in Kandy - Price category: mid - Rating: 4.9/5 - Tags: breakfast|central|clean|beach - Website: http://palmlodge.com"
+  },
+  {
+    "text": "Coral Retreat in Negombo - Price category: luxury - Rating: 4.2/5 - Tags: clean|beach|overwater|wifi - Website: http://coralretreat.com"
+  },
+  {
+    "text": "Palm Retreat in Kandy - Price category: budget - Rating: 3.7/5 - Tags: beach|nature|wifi|clean - Website: http://palmretreat.com"
+  },
+  {
+    "text": "Hill Suites in Anuradhapura - Price category: luxury - Rating: 4.5/5 - Tags: spa|clean|overwater|nature - Website: http://hillsuites.com"
+  },
+  {
+    "text": "Sun Guesthouse in Nuwara Eliya - Price category: mid - Rating: 4.9/5 - Tags: wifi|spa|budget|overwater|beach - Website: http://sunguesthouse.com"
+  },
+  {
+    "text": "Lake Suites in Kandy - Price category: mid - Rating: 3.9/5 - Tags: spa|quiet|pool|luxury - Website: http://lakesuites.com"
+  },
+  {
+    "text": "City Resort in Bentota - Price category: mid - Rating: 4.2/5 - Tags: luxury|clean|spa|nature - Website: http://cityresort.com"
+  },
+  {
+    "text": "Sky Retreat in Trincomalee - Price category: mid - Rating: 4.9/5 - Tags: central|overwater|luxury|spa|wifi - Website: http://skyretreat.com"
+  },
+  {
+    "text": "Sky Lodge in Kandy - Price category: budget - Rating: 3.6/5 - Tags: spa|overwater|beach|breakfast|budget - Website: http://skylodge.com"
+  },
+  {
+    "text": "Hill Hotel in Colombo - Price category: budget - Rating: 5.0/5 - Tags: central|luxury|clean|breakfast|overwater - Website: http://hillhotel.com"
+  },
+  {
+    "text": "Palm Inn in Bentota - Price category: luxury - Rating: 4.7/5 - Tags: spa|central|luxury|budget|overwater - Website: http://palminn.com"
+  },
+  {
+    "text": "Palm Inn in Jaffna - Price category: budget - Rating: 4.4/5 - Tags: wifi|breakfast|nature|overwater|central - Website: http://palminn.com"
+  },
+  {
+    "text": "Sea Retreat in Jaffna - Price category: mid - Rating: 3.6/5 - Tags: budget|beach|nature - Website: http://searetreat.com"
+  },
+  {
+    "text": "Lake Lodge in Galle - Price category: luxury - Rating: 3.8/5 - Tags: budget|nature|overwater|central|clean - Website: http://lakelodge.com"
+  },
+  {
+    "text": "Hill Bungalow in Jaffna - Price category: budget - Rating: 3.6/5 - Tags: spa|quiet|pool - Website: http://hillbungalow.com"
+  },
+  {
+    "text": "City Bungalow in Trincomalee - Price category: mid - Rating: 4.5/5 - Tags: breakfast|clean|nature|budget - Website: http://citybungalow.com"
+  },
+  {
+    "text": "Lake Inn in Kandy - Price category: luxury - Rating: 4.8/5 - Tags: clean|luxury|overwater|wifi - Website: http://lakeinn.com"
+  },
+  {
+    "text": "Sea Bungalow in Jaffna - Price category: budget - Rating: 3.7/5 - Tags: overwater|luxury|wifi - Website: http://seabungalow.com"
+  },
+  {
+    "text": "Sea Resort in Bentota - Price category: budget - Rating: 3.7/5 - Tags: clean|beach|budget|quiet - Website: http://searesort.com"
+  },
+  {
+    "text": "Star Villa in Jaffna - Price category: luxury - Rating: 5.0/5 - Tags: wifi|nature|clean|quiet - Website: http://starvilla.com"
+  },
+  {
+    "text": "Moon Hotel in Colombo - Price category: budget - Rating: 4.2/5 - Tags: nature|clean|central|luxury - Website: http://moonhotel.com"
+  },
+  {
+    "text": "Lake Resort in Kandy - Price category: budget - Rating: 4.3/5 - Tags: clean|beach|central - Website: http://lakeresort.com"
+  },
+  {
+    "text": "Lake Guesthouse in Colombo - Price category: mid - Rating: 3.6/5 - Tags: pool|overwater|beach - Website: http://lakeguesthouse.com"
+  },
+  {
+    "text": "Coral Suites in Jaffna - Price category: mid - Rating: 5.0/5 - Tags: budget|nature|overwater|clean - Website: http://coralsuites.com"
+  },
+  {
+    "text": "Hill Inn in Jaffna - Price category: luxury - Rating: 4.4/5 - Tags: luxury|overwater|quiet|beach|nature - Website: http://hillinn.com"
+  },
+  {
+    "text": "Sun Resort in Anuradhapura - Price category: budget - Rating: 4.8/5 - Tags: spa|budget|quiet|beach - Website: http://sunresort.com"
+  },
+  {
+    "text": "Sun Villa in Maldives - Price category: luxury - Rating: 3.9/5 - Tags: quiet|budget|spa|beach - Website: http://sunvilla.com"
+  },
+  {
+    "text": "Sea Resort in Nuwara Eliya - Price category: budget - Rating: 3.6/5 - Tags: luxury|spa|quiet|wifi|breakfast - Website: http://searesort.com"
+  },
+  {
+    "text": "Star Suites in Colombo - Price category: mid - Rating: 4.9/5 - Tags: central|beach|breakfast - Website: http://starsuites.com"
+  },
+  {
+    "text": "Moon Hotel in Jaffna - Price category: budget - Rating: 4.8/5 - Tags: central|nature|quiet - Website: http://moonhotel.com"
+  },
+  {
+    "text": "City Bungalow in Jaffna - Price category: budget - Rating: 4.6/5 - Tags: nature|luxury|overwater - Website: http://citybungalow.com"
+  },
+  {
+    "text": "Hill Bungalow in Bentota - Price category: budget - Rating: 4.1/5 - Tags: nature|spa|pool|quiet|luxury - Website: http://hillbungalow.com"
+  },
+  {
+    "text": "Hill Inn in Anuradhapura - Price category: budget - Rating: 3.7/5 - Tags: overwater|budget|wifi - Website: http://hillinn.com"
+  },
+  {
+    "text": "Hill Retreat in Galle - Price category: luxury - Rating: 3.8/5 - Tags: pool|beach|spa - Website: http://hillretreat.com"
+  },
+  {
+    "text": "Sun Villa in Trincomalee - Price category: luxury - Rating: 3.8/5 - Tags: beach|nature|wifi - Website: http://sunvilla.com"
+  },
+  {
+    "text": "Palm Inn in Galle - Price category: budget - Rating: 4.6/5 - Tags: pool|central|clean|luxury - Website: http://palminn.com"
+  },
+  {
+    "text": "Sun Suites in Trincomalee - Price category: mid - Rating: 4.7/5 - Tags: spa|beach|quiet|clean - Website: http://sunsuites.com"
+  },
+  {
+    "text": "Sun Inn in Maldives - Price category: luxury - Rating: 5.0/5 - Tags: nature|pool|beach|quiet - Website: http://suninn.com"
+  },
+  {
+    "text": "City Bungalow in Colombo - Price category: luxury - Rating: 4.4/5 - Tags: wifi|nature|overwater|pool|beach - Website: http://citybungalow.com"
+  },
+  {
+    "text": "Sky Suites in Maldives - Price category: luxury - Rating: 4.5/5 - Tags: wifi|quiet|overwater - Website: http://skysuites.com"
+  },
+  {
+    "text": "Palm Retreat in Bentota - Price category: mid - Rating: 3.6/5 - Tags: pool|clean|overwater|central - Website: http://palmretreat.com"
+  },
+  {
+    "text": "Hill Resort in Jaffna - Price category: luxury - Rating: 4.8/5 - Tags: wifi|clean|breakfast|overwater - Website: http://hillresort.com"
+  },
+  {
+    "text": "Coral Bungalow in Kandy - Price category: budget - Rating: 3.9/5 - Tags: nature|beach|pool|luxury - Website: http://coralbungalow.com"
+  },
+  {
+    "text": "Lake Bungalow in Bentota - Price category: luxury - Rating: 3.6/5 - Tags: nature|wifi|quiet - Website: http://lakebungalow.com"
+  },
+  {
+    "text": "Star Bungalow in Nuwara Eliya - Price category: mid - Rating: 3.6/5 - Tags: overwater|pool|spa|wifi - Website: http://starbungalow.com"
+  },
+  {
+    "text": "Palm Inn in Jaffna - Price category: luxury - Rating: 4.8/5 - Tags: beach|central|quiet|luxury|clean - Website: http://palminn.com"
+  },
+  {
+    "text": "Star Resort in Anuradhapura - Price category: mid - Rating: 4.2/5 - Tags: budget|nature|luxury - Website: http://starresort.com"
+  },
+  {
+    "text": "Hill Lodge in Colombo - Price category: mid - Rating: 3.7/5 - Tags: nature|spa|wifi|clean - Website: http://hilllodge.com"
+  },
+  {
+    "text": "Sky Resort in Kandy - Price category: mid - Rating: 4.6/5 - Tags: clean|breakfast|beach|budget - Website: http://skyresort.com"
+  },
+  {
+    "text": "Moon Resort in Nuwara Eliya - Price category: budget - Rating: 4.2/5 - Tags: clean|beach|central|breakfast|nature - Website: http://moonresort.com"
+  },
+  {
+    "text": "Palm Hotel in Nuwara Eliya - Price category: luxury - Rating: 3.9/5 - Tags: luxury|beach|pool - Website: http://palmhotel.com"
+  },
+  {
+    "text": "Hill Hotel in Anuradhapura - Price category: mid - Rating: 4.2/5 - Tags: pool|central|overwater|nature - Website: http://hillhotel.com"
+  },
+  {
+    "text": "City Villa in Colombo - Price category: luxury - Rating: 4.9/5 - Tags: breakfast|central|clean - Website: http://cityvilla.com"
+  },
+  {
+    "text": "Palm Lodge in Bentota - Price category: budget - Rating: 4.7/5 - Tags: pool|budget|quiet - Website: http://palmlodge.com"
+  },
+  {
+    "text": "City Resort in Bentota - Price category: luxury - Rating: 4.3/5 - Tags: quiet|spa|central|overwater - Website: http://cityresort.com"
+  },
+  {
+    "text": "Hill Guesthouse in Kandy - Price category: mid - Rating: 4.4/5 - Tags: overwater|budget|quiet|clean|luxury - Website: http://hillguesthouse.com"
+  },
+  {
+    "text": "Star Villa in Negombo - Price category: mid - Rating: 4.4/5 - Tags: clean|budget|beach|central - Website: http://starvilla.com"
+  },
+  {
+    "text": "Star Guesthouse in Jaffna - Price category: luxury - Rating: 3.5/5 - Tags: breakfast|quiet|luxury|nature - Website: http://starguesthouse.com"
+  },
+  {
+    "text": "City Lodge in Jaffna - Price category: mid - Rating: 4.2/5 - Tags: wifi|luxury|beach|clean|nature - Website: http://citylodge.com"
+  },
+  {
+    "text": "Moon Inn in Nuwara Eliya - Price category: mid - Rating: 4.8/5 - Tags: nature|wifi|beach - Website: http://mooninn.com"
+  },
+  {
+    "text": "Moon Bungalow in Maldives - Price category: budget - Rating: 3.6/5 - Tags: nature|beach|spa|wifi|budget - Website: http://moonbungalow.com"
+  },
+  {
+    "text": "Lake Inn in Maldives - Price category: mid - Rating: 5.0/5 - Tags: budget|beach|quiet|breakfast|wifi - Website: http://lakeinn.com"
+  },
+  {
+    "text": "Sea Villa in Bentota - Price category: budget - Rating: 4.8/5 - Tags: budget|wifi|pool|central|breakfast - Website: http://seavilla.com"
+  },
+  {
+    "text": "Star Bungalow in Maldives - Price category: budget - Rating: 3.8/5 - Tags: luxury|pool|nature|budget|spa - Website: http://starbungalow.com"
+  },
+  {
+    "text": "Star Villa in Negombo - Price category: budget - Rating: 4.7/5 - Tags: clean|wifi|luxury|quiet - Website: http://starvilla.com"
+  },
+  {
+    "text": "Sky Resort in Nuwara Eliya - Price category: luxury - Rating: 4.4/5 - Tags: spa|nature|overwater - Website: http://skyresort.com"
+  },
+  {
+    "text": "Lake Hotel in Galle - Price category: luxury - Rating: 3.7/5 - Tags: central|pool|beach|nature|quiet - Website: http://lakehotel.com"
+  },
+  {
+    "text": "Lake Lodge in Trincomalee - Price category: budget - Rating: 4.6/5 - Tags: nature|clean|luxury - Website: http://lakelodge.com"
+  },
+  {
+    "text": "Moon Inn in Galle - Price category: budget - Rating: 4.8/5 - Tags: overwater|pool|breakfast - Website: http://mooninn.com"
+  },
+  {
+    "text": "Hill Retreat in Anuradhapura - Price category: budget - Rating: 4.3/5 - Tags: pool|breakfast|budget|luxury|clean - Website: http://hillretreat.com"
+  },
+  {
+    "text": "Palm Bungalow in Trincomalee - Price category: luxury - Rating: 3.8/5 - Tags: central|budget|beach - Website: http://palmbungalow.com"
+  },
+  {
+    "text": "City Retreat in Kandy - Price category: budget - Rating: 4.7/5 - Tags: beach|pool|breakfast|overwater - Website: http://cityretreat.com"
+  },
+  {
+    "text": "Sky Resort in Nuwara Eliya - Price category: budget - Rating: 4.7/5 - Tags: clean|central|spa - Website: http://skyresort.com"
+  },
+  {
+    "text": "Hill Bungalow in Nuwara Eliya - Price category: mid - Rating: 4.5/5 - Tags: central|beach|budget - Website: http://hillbungalow.com"
+  },
+  {
+    "text": "Lake Lodge in Galle - Price category: budget - Rating: 3.6/5 - Tags: wifi|central|clean - Website: http://lakelodge.com"
+  },
+  {
+    "text": "Moon Villa in Colombo - Price category: luxury - Rating: 3.5/5 - Tags: central|beach|overwater - Website: http://moonvilla.com"
+  },
+  {
+    "text": "Star Resort in Kandy - Price category: luxury - Rating: 3.6/5 - Tags: quiet|budget|breakfast|overwater|wifi - Website: http://starresort.com"
+  },
+  {
+    "text": "Coral Inn in Kandy - Price category: mid - Rating: 4.3/5 - Tags: wifi|pool|central|budget - Website: http://coralinn.com"
+  },
+  {
+    "text": "Lake Bungalow in Maldives - Price category: budget - Rating: 4.6/5 - Tags: pool|overwater|nature|wifi - Website: http://lakebungalow.com"
+  },
+  {
+    "text": "Sun Lodge in Anuradhapura - Price category: luxury - Rating: 4.2/5 - Tags: central|overwater|spa|luxury - Website: http://sunlodge.com"
+  },
+  {
+    "text": "Star Inn in Anuradhapura - Price category: budget - Rating: 4.1/5 - Tags: beach|luxury|quiet|nature|budget - Website: http://starinn.com"
+  },
+  {
+    "text": "Palm Retreat in Bentota - Price category: luxury - Rating: 3.6/5 - Tags: breakfast|clean|central|pool - Website: http://palmretreat.com"
+  },
+  {
+    "text": "Star Hotel in Kandy - Price category: mid - Rating: 4.0/5 - Tags: central|luxury|clean|pool - Website: http://starhotel.com"
+  },
+  {
+    "text": "Coral Suites in Kandy - Price category: mid - Rating: 3.6/5 - Tags: overwater|quiet|pool - Website: http://coralsuites.com"
+  },
+  {
+    "text": "Sun Retreat in Colombo - Price category: mid - Rating: 4.8/5 - Tags: spa|luxury|beach|breakfast - Website: http://sunretreat.com"
+  },
+  {
+    "text": "Lake Hotel in Colombo - Price category: budget - Rating: 4.1/5 - Tags: quiet|luxury|beach|wifi|central - Website: http://lakehotel.com"
+  },
+  {
+    "text": "Hill Resort in Bentota - Price category: budget - Rating: 4.8/5 - Tags: spa|breakfast|quiet - Website: http://hillresort.com"
+  },
+  {
+    "text": "City Bungalow in Jaffna - Price category: budget - Rating: 4.9/5 - Tags: wifi|spa|nature|breakfast - Website: http://citybungalow.com"
+  },
+  {
+    "text": "Sun Bungalow in Nuwara Eliya - Price category: luxury - Rating: 4.4/5 - Tags: pool|clean|breakfast|nature - Website: http://sunbungalow.com"
+  },
+  {
+    "text": "Lake Bungalow in Jaffna - Price category: mid - Rating: 4.6/5 - Tags: clean|beach|budget - Website: http://lakebungalow.com"
+  },
+  {
+    "text": "City Bungalow in Nuwara Eliya - Price category: budget - Rating: 3.6/5 - Tags: quiet|central|nature|spa|overwater - Website: http://citybungalow.com"
+  },
+  {
+    "text": "Lake Suites in Galle - Price category: mid - Rating: 3.9/5 - Tags: clean|nature|breakfast - Website: http://lakesuites.com"
+  },
+  {
+    "text": "Hill Lodge in Bentota - Price category: luxury - Rating: 4.4/5 - Tags: breakfast|quiet|spa - Website: http://hilllodge.com"
+  },
+  {
+    "text": "Palm Retreat in Kandy - Price category: mid - Rating: 3.7/5 - Tags: nature|beach|central|wifi|overwater - Website: http://palmretreat.com"
+  },
+  {
+    "text": "City Bungalow in Kandy - Price category: mid - Rating: 4.0/5 - Tags: beach|pool|luxury|wifi|budget - Website: http://citybungalow.com"
+  },
+  {
+    "text": "Moon Lodge in Jaffna - Price category: budget - Rating: 4.0/5 - Tags: central|wifi|budget|pool - Website: http://moonlodge.com"
+  },
+  {
+    "text": "Star Hotel in Bentota - Price category: budget - Rating: 3.6/5 - Tags: central|overwater|quiet|luxury|wifi - Website: http://starhotel.com"
+  },
+  {
+    "text": "Coral Retreat in Colombo - Price category: budget - Rating: 3.7/5 - Tags: clean|spa|quiet|wifi - Website: http://coralretreat.com"
+  },
+  {
+    "text": "Star Lodge in Galle - Price category: budget - Rating: 4.2/5 - Tags: quiet|overwater|nature|wifi - Website: http://starlodge.com"
+  },
+  {
+    "text": "Coral Suites in Nuwara Eliya - Price category: luxury - Rating: 4.2/5 - Tags: quiet|luxury|central - Website: http://coralsuites.com"
+  },
+  {
+    "text": "Star Inn in Nuwara Eliya - Price category: mid - Rating: 4.0/5 - Tags: luxury|breakfast|overwater - Website: http://starinn.com"
+  },
+  {
+    "text": "Star Guesthouse in Nuwara Eliya - Price category: luxury - Rating: 3.9/5 - Tags: central|budget|wifi|clean - Website: http://starguesthouse.com"
+  },
+  {
+    "text": "Palm Bungalow in Trincomalee - Price category: luxury - Rating: 3.7/5 - Tags: budget|quiet|pool - Website: http://palmbungalow.com"
+  },
+  {
+    "text": "Star Lodge in Maldives - Price category: budget - Rating: 4.6/5 - Tags: spa|nature|overwater|breakfast - Website: http://starlodge.com"
+  },
+  {
+    "text": "Lake Suites in Anuradhapura - Price category: budget - Rating: 3.5/5 - Tags: breakfast|budget|overwater - Website: http://lakesuites.com"
+  },
+  {
+    "text": "Palm Retreat in Maldives - Price category: luxury - Rating: 3.9/5 - Tags: quiet|nature|budget|spa|clean - Website: http://palmretreat.com"
+  },
+  {
+    "text": "Sky Hotel in Galle - Price category: mid - Rating: 4.3/5 - Tags: nature|budget|central - Website: http://skyhotel.com"
+  },
+  {
+    "text": "Sky Bungalow in Colombo - Price category: budget - Rating: 4.4/5 - Tags: luxury|clean|budget - Website: http://skybungalow.com"
+  },
+  {
+    "text": "Moon Villa in Anuradhapura - Price category: mid - Rating: 4.9/5 - Tags: breakfast|nature|budget - Website: http://moonvilla.com"
+  },
+  {
+    "text": "Palm Bungalow in Colombo - Price category: budget - Rating: 4.0/5 - Tags: central|nature|spa - Website: http://palmbungalow.com"
+  },
+  {
+    "text": "Sky Resort in Trincomalee - Price category: luxury - Rating: 4.6/5 - Tags: budget|overwater|wifi|beach|luxury - Website: http://skyresort.com"
+  },
+  {
+    "text": "Hill Suites in Maldives - Price category: budget - Rating: 4.7/5 - Tags: pool|beach|spa|central - Website: http://hillsuites.com"
+  },
+  {
+    "text": "Coral Inn in Anuradhapura - Price category: budget - Rating: 3.7/5 - Tags: nature|central|luxury|budget - Website: http://coralinn.com"
+  },
+  {
+    "text": "Palm Guesthouse in Anuradhapura - Price category: budget - Rating: 4.0/5 - Tags: pool|breakfast|spa - Website: http://palmguesthouse.com"
+  },
+  {
+    "text": "Moon Bungalow in Bentota - Price category: budget - Rating: 3.7/5 - Tags: wifi|budget|central|spa - Website: http://moonbungalow.com"
+  },
+  {
+    "text": "Sea Retreat in Kandy - Price category: mid - Rating: 3.8/5 - Tags: central|pool|nature - Website: http://searetreat.com"
+  },
+  {
+    "text": "Moon Guesthouse in Bentota - Price category: mid - Rating: 4.1/5 - Tags: budget|overwater|central - Website: http://moonguesthouse.com"
+  },
+  {
+    "text": "Coral Bungalow in Kandy - Price category: luxury - Rating: 3.9/5 - Tags: wifi|breakfast|beach|nature - Website: http://coralbungalow.com"
+  },
+  {
+    "text": "Star Hotel in Maldives - Price category: budget - Rating: 5.0/5 - Tags: luxury|wifi|quiet|spa - Website: http://starhotel.com"
+  },
+  {
+    "text": "Coral Resort in Jaffna - Price category: luxury - Rating: 3.9/5 - Tags: central|overwater|nature|beach|wifi - Website: http://coralresort.com"
+  },
+  {
+    "text": "Star Bungalow in Negombo - Price category: budget - Rating: 4.5/5 - Tags: spa|pool|clean|beach - Website: http://starbungalow.com"
+  },
+  {
+    "text": "Sky Hotel in Nuwara Eliya - Price category: mid - Rating: 3.6/5 - Tags: luxury|central|clean|breakfast - Website: http://skyhotel.com"
+  },
+  {
+    "text": "Moon Hotel in Galle - Price category: luxury - Rating: 3.9/5 - Tags: breakfast|nature|pool - Website: http://moonhotel.com"
+  },
+  {
+    "text": "Sun Resort in Nuwara Eliya - Price category: mid - Rating: 3.8/5 - Tags: beach|breakfast|clean - Website: http://sunresort.com"
+  },
+  {
+    "text": "Sky Villa in Anuradhapura - Price category: budget - Rating: 4.8/5 - Tags: spa|overwater|beach|central - Website: http://skyvilla.com"
+  },
+  {
+    "text": "Hill Resort in Colombo - Price category: mid - Rating: 3.8/5 - Tags: pool|breakfast|budget|clean|quiet - Website: http://hillresort.com"
+  },
+  {
+    "text": "Moon Lodge in Maldives - Price category: budget - Rating: 3.8/5 - Tags: wifi|quiet|clean|overwater - Website: http://moonlodge.com"
+  },
+  {
+    "text": "Hill Guesthouse in Jaffna - Price category: budget - Rating: 4.3/5 - Tags: pool|overwater|beach|spa|central - Website: http://hillguesthouse.com"
+  },
+  {
+    "text": "City Guesthouse in Trincomalee - Price category: budget - Rating: 3.5/5 - Tags: beach|nature|spa|central|overwater - Website: http://cityguesthouse.com"
+  },
+  {
+    "text": "Star Bungalow in Maldives - Price category: budget - Rating: 4.9/5 - Tags: quiet|spa|nature|luxury - Website: http://starbungalow.com"
+  },
+  {
+    "text": "Sky Resort in Trincomalee - Price category: budget - Rating: 4.2/5 - Tags: quiet|spa|central - Website: http://skyresort.com"
+  },
+  {
+    "text": "Lake Bungalow in Colombo - Price category: mid - Rating: 3.9/5 - Tags: wifi|nature|breakfast|quiet|budget - Website: http://lakebungalow.com"
+  },
+  {
+    "text": "Lake Hotel in Bentota - Price category: luxury - Rating: 4.9/5 - Tags: nature|central|breakfast|budget - Website: http://lakehotel.com"
+  },
+  {
+    "text": "Coral Hotel in Trincomalee - Price category: luxury - Rating: 4.0/5 - Tags: central|clean|overwater - Website: http://coralhotel.com"
+  },
+  {
+    "text": "Sun Guesthouse in Trincomalee - Price category: luxury - Rating: 3.8/5 - Tags: beach|pool|budget - Website: http://sunguesthouse.com"
+  },
+  {
+    "text": "Star Hotel in Maldives - Price category: budget - Rating: 4.4/5 - Tags: luxury|nature|breakfast - Website: http://starhotel.com"
+  },
+  {
+    "text": "Sky Guesthouse in Anuradhapura - Price category: luxury - Rating: 4.1/5 - Tags: nature|quiet|central|breakfast|budget - Website: http://skyguesthouse.com"
+  },
+  {
+    "text": "Sun Resort in Galle - Price category: budget - Rating: 4.8/5 - Tags: clean|overwater|spa - Website: http://sunresort.com"
+  },
+  {
+    "text": "Coral Lodge in Jaffna - Price category: budget - Rating: 4.1/5 - Tags: breakfast|budget|spa - Website: http://corallodge.com"
+  },
+  {
+    "text": "City Inn in Trincomalee - Price category: luxury - Rating: 4.1/5 - Tags: spa|nature|overwater|wifi|clean - Website: http://cityinn.com"
+  },
+  {
+    "text": "Star Retreat in Kandy - Price category: luxury - Rating: 3.8/5 - Tags: overwater|breakfast|nature - Website: http://starretreat.com"
+  },
+  {
+    "text": "City Inn in Nuwara Eliya - Price category: mid - Rating: 4.4/5 - Tags: budget|luxury|beach|spa|clean - Website: http://cityinn.com"
+  },
+  {
+    "text": "City Lodge in Colombo - Price category: budget - Rating: 4.1/5 - Tags: beach|quiet|wifi|spa|pool - Website: http://citylodge.com"
+  },
+  {
+    "text": "Hill Resort in Colombo - Price category: budget - Rating: 4.0/5 - Tags: wifi|central|beach|breakfast - Website: http://hillresort.com"
+  },
+  {
+    "text": "Star Hotel in Maldives - Price category: mid - Rating: 4.5/5 - Tags: beach|central|budget - Website: http://starhotel.com"
+  },
+  {
+    "text": "City Resort in Negombo - Price category: mid - Rating: 4.4/5 - Tags: clean|pool|quiet|budget|central - Website: http://cityresort.com"
+  },
+  {
+    "text": "Palm Villa in Negombo - Price category: budget - Rating: 4.4/5 - Tags: pool|overwater|budget - Website: http://palmvilla.com"
+  },
+  {
+    "text": "Palm Inn in Maldives - Price category: mid - Rating: 4.3/5 - Tags: luxury|central|breakfast|budget - Website: http://palminn.com"
+  },
+  {
+    "text": "Sun Hotel in Maldives - Price category: budget - Rating: 3.5/5 - Tags: spa|clean|pool|overwater - Website: http://sunhotel.com"
+  },
+  {
+    "text": "Hill Lodge in Maldives - Price category: luxury - Rating: 3.6/5 - Tags: spa|luxury|central - Website: http://hilllodge.com"
+  },
+  {
+    "text": "Sea Bungalow in Nuwara Eliya - Price category: budget - Rating: 3.6/5 - Tags: central|clean|breakfast - Website: http://seabungalow.com"
+  },
+  {
+    "text": "Sky Suites in Colombo - Price category: mid - Rating: 4.9/5 - Tags: wifi|luxury|clean - Website: http://skysuites.com"
+  },
+  {
+    "text": "City Guesthouse in Kandy - Price category: mid - Rating: 4.5/5 - Tags: budget|beach|central - Website: http://cityguesthouse.com"
+  },
+  {
+    "text": "Palm Resort in Jaffna - Price category: luxury - Rating: 4.9/5 - Tags: breakfast|clean|beach|budget - Website: http://palmresort.com"
+  },
+  {
+    "text": "Sky Hotel in Maldives - Price category: mid - Rating: 4.9/5 - Tags: central|clean|breakfast|beach - Website: http://skyhotel.com"
+  },
+  {
+    "text": "Lake Guesthouse in Galle - Price category: luxury - Rating: 4.7/5 - Tags: budget|breakfast|spa - Website: http://lakeguesthouse.com"
+  },
+  {
+    "text": "Sun Inn in Galle - Price category: luxury - Rating: 4.0/5 - Tags: spa|luxury|pool|quiet - Website: http://suninn.com"
+  },
+  {
+    "text": "Palm Inn in Galle - Price category: budget - Rating: 3.8/5 - Tags: beach|quiet|breakfast - Website: http://palminn.com"
+  },
+  {
+    "text": "Sea Suites in Bentota - Price category: budget - Rating: 4.3/5 - Tags: central|luxury|quiet|breakfast|budget - Website: http://seasuites.com"
+  },
+  {
+    "text": "Moon Guesthouse in Negombo - Price category: luxury - Rating: 4.7/5 - Tags: central|spa|wifi - Website: http://moonguesthouse.com"
+  },
+  {
+    "text": "Palm Hotel in Maldives - Price category: mid - Rating: 3.7/5 - Tags: budget|overwater|central|breakfast|beach - Website: http://palmhotel.com"
+  },
+  {
+    "text": "Hill Suites in Colombo - Price category: budget - Rating: 4.9/5 - Tags: quiet|wifi|beach|overwater|spa - Website: http://hillsuites.com"
+  },
+  {
+    "text": "Hill Hotel in Kandy - Price category: luxury - Rating: 4.5/5 - Tags: wifi|luxury|breakfast|budget|spa - Website: http://hillhotel.com"
+  },
+  {
+    "text": "Lake Suites in Anuradhapura - Price category: luxury - Rating: 4.6/5 - Tags: central|clean|budget - Website: http://lakesuites.com"
+  },
+  {
+    "text": "Star Inn in Bentota - Price category: mid - Rating: 3.6/5 - Tags: pool|nature|budget|clean - Website: http://starinn.com"
+  },
+  {
+    "text": "Sun Hotel in Colombo - Price category: luxury - Rating: 4.9/5 - Tags: wifi|central|overwater|nature - Website: http://sunhotel.com"
+  },
+  {
+    "text": "Moon Hotel in Colombo - Price category: budget - Rating: 3.7/5 - Tags: clean|nature|overwater|central - Website: http://moonhotel.com"
+  },
+  {
+    "text": "Moon Suites in Nuwara Eliya - Price category: mid - Rating: 4.2/5 - Tags: wifi|breakfast|beach - Website: http://moonsuites.com"
+  },
+  {
+    "text": "Sun Resort in Bentota - Price category: budget - Rating: 4.4/5 - Tags: clean|nature|luxury|central - Website: http://sunresort.com"
+  },
+  {
+    "text": "Hill Villa in Anuradhapura - Price category: budget - Rating: 4.2/5 - Tags: pool|breakfast|central - Website: http://hillvilla.com"
+  },
+  {
+    "text": "Moon Resort in Kandy - Price category: budget - Rating: 3.6/5 - Tags: breakfast|central|beach|budget|luxury - Website: http://moonresort.com"
+  },
+  {
+    "text": "Sky Hotel in Kandy - Price category: budget - Rating: 4.3/5 - Tags: wifi|breakfast|spa|luxury|beach - Website: http://skyhotel.com"
+  },
+  {
+    "text": "Star Guesthouse in Bentota - Price category: mid - Rating: 4.1/5 - Tags: pool|budget|beach|clean|central - Website: http://starguesthouse.com"
+  },
+  {
+    "text": "Hill Resort in Colombo - Price category: mid - Rating: 3.9/5 - Tags: overwater|clean|breakfast|wifi|pool - Website: http://hillresort.com"
+  },
+  {
+    "text": "Moon Retreat in Jaffna - Price category: budget - Rating: 4.5/5 - Tags: budget|clean|spa - Website: http://moonretreat.com"
+  },
+  {
+    "text": "Moon Inn in Jaffna - Price category: budget - Rating: 4.0/5 - Tags: overwater|breakfast|wifi - Website: http://mooninn.com"
+  },
+  {
+    "text": "Palm Hotel in Trincomalee - Price category: budget - Rating: 4.1/5 - Tags: beach|budget|luxury - Website: http://palmhotel.com"
+  },
+  {
+    "text": "Moon Bungalow in Trincomalee - Price category: budget - Rating: 4.6/5 - Tags: luxury|nature|beach|pool|wifi - Website: http://moonbungalow.com"
+  },
+  {
+    "text": "Sun Hotel in Bentota - Price category: budget - Rating: 4.7/5 - Tags: quiet|beach|pool|clean - Website: http://sunhotel.com"
+  },
+  {
+    "text": "Moon Retreat in Nuwara Eliya - Price category: luxury - Rating: 5.0/5 - Tags: luxury|nature|budget - Website: http://moonretreat.com"
+  },
+  {
+    "text": "Hill Inn in Nuwara Eliya - Price category: budget - Rating: 4.5/5 - Tags: nature|clean|overwater - Website: http://hillinn.com"
+  },
+  {
+    "text": "City Retreat in Bentota - Price category: luxury - Rating: 4.9/5 - Tags: spa|breakfast|budget|overwater - Website: http://cityretreat.com"
+  },
+  {
+    "text": "City Lodge in Maldives - Price category: budget - Rating: 4.7/5 - Tags: wifi|overwater|nature|quiet - Website: http://citylodge.com"
+  },
+  {
+    "text": "Sun Retreat in Kandy - Price category: luxury - Rating: 4.9/5 - Tags: overwater|pool|spa|central - Website: http://sunretreat.com"
+  },
+  {
+    "text": "Sun Suites in Nuwara Eliya - Price category: mid - Rating: 4.8/5 - Tags: pool|budget|clean - Website: http://sunsuites.com"
+  },
+  {
+    "text": "City Hotel in Trincomalee - Price category: mid - Rating: 4.4/5 - Tags: spa|luxury|central|beach|clean - Website: http://cityhotel.com"
+  },
+  {
+    "text": "Palm Resort in Colombo - Price category: luxury - Rating: 3.5/5 - Tags: luxury|wifi|central|beach|overwater - Website: http://palmresort.com"
+  },
+  {
+    "text": "Palm Guesthouse in Bentota - Price category: budget - Rating: 4.4/5 - Tags: central|luxury|beach|clean|spa - Website: http://palmguesthouse.com"
+  },
+  {
+    "text": "Moon Suites in Galle - Price category: luxury - Rating: 4.4/5 - Tags: wifi|breakfast|luxury - Website: http://moonsuites.com"
+  },
+  {
+    "text": "City Guesthouse in Kandy - Price category: luxury - Rating: 3.5/5 - Tags: beach|budget|clean|quiet|breakfast - Website: http://cityguesthouse.com"
+  },
+  {
+    "text": "Moon Guesthouse in Nuwara Eliya - Price category: budget - Rating: 4.6/5 - Tags: overwater|central|nature|clean|pool - Website: http://moonguesthouse.com"
+  },
+  {
+    "text": "City Lodge in Jaffna - Price category: mid - Rating: 3.7/5 - Tags: nature|central|overwater|beach|breakfast - Website: http://citylodge.com"
+  },
+  {
+    "text": "Hill Resort in Bentota - Price category: budget - Rating: 4.6/5 - Tags: clean|overwater|breakfast|wifi|central - Website: http://hillresort.com"
+  },
+  {
+    "text": "Sun Hotel in Maldives - Price category: luxury - Rating: 3.7/5 - Tags: quiet|central|luxury - Website: http://sunhotel.com"
+  },
+  {
+    "text": "Palm Villa in Colombo - Price category: mid - Rating: 4.2/5 - Tags: luxury|nature|central|spa - Website: http://palmvilla.com"
+  },
+  {
+    "text": "Lake Lodge in Bentota - Price category: mid - Rating: 4.0/5 - Tags: wifi|pool|breakfast|central - Website: http://lakelodge.com"
+  },
+  {
+    "text": "Hill Inn in Galle - Price category: mid - Rating: 4.6/5 - Tags: wifi|quiet|central|breakfast|overwater - Website: http://hillinn.com"
+  },
+  {
+    "text": "Lake Bungalow in Trincomalee - Price category: mid - Rating: 5.0/5 - Tags: breakfast|luxury|clean|quiet - Website: http://lakebungalow.com"
+  },
+  {
+    "text": "Star Resort in Trincomalee - Price category: mid - Rating: 3.9/5 - Tags: nature|central|pool|breakfast|luxury - Website: http://starresort.com"
+  },
+  {
+    "text": "Star Guesthouse in Jaffna - Price category: luxury - Rating: 4.6/5 - Tags: wifi|budget|central|pool - Website: http://starguesthouse.com"
+  },
+  {
+    "text": "Sun Resort in Kandy - Price category: luxury - Rating: 3.8/5 - Tags: overwater|breakfast|spa|central|pool - Website: http://sunresort.com"
+  },
+  {
+    "text": "Star Inn in Galle - Price category: mid - Rating: 4.2/5 - Tags: spa|wifi|quiet|nature - Website: http://starinn.com"
+  },
+  {
+    "text": "Sky Inn in Colombo - Price category: mid - Rating: 4.4/5 - Tags: luxury|breakfast|clean|pool|central - Website: http://skyinn.com"
+  },
+  {
+    "text": "Coral Villa in Negombo - Price category: luxury - Rating: 4.8/5 - Tags: overwater|nature|quiet - Website: http://coralvilla.com"
+  },
+  {
+    "text": "Moon Inn in Trincomalee - Price category: budget - Rating: 3.6/5 - Tags: budget|pool|luxury - Website: http://mooninn.com"
+  },
+  {
+    "text": "Palm Resort in Jaffna - Price category: budget - Rating: 4.1/5 - Tags: breakfast|overwater|beach - Website: http://palmresort.com"
+  },
+  {
+    "text": "Moon Villa in Galle - Price category: mid - Rating: 4.0/5 - Tags: pool|spa|clean - Website: http://moonvilla.com"
+  },
+  {
+    "text": "Sun Villa in Kandy - Price category: budget - Rating: 4.6/5 - Tags: beach|clean|luxury - Website: http://sunvilla.com"
+  },
+  {
+    "text": "Moon Guesthouse in Colombo - Price category: luxury - Rating: 4.9/5 - Tags: luxury|clean|spa|overwater - Website: http://moonguesthouse.com"
+  },
+  {
+    "text": "Lake Lodge in Trincomalee - Price category: mid - Rating: 3.6/5 - Tags: luxury|clean|wifi|beach - Website: http://lakelodge.com"
+  },
+  {
+    "text": "Star Suites in Nuwara Eliya - Price category: mid - Rating: 4.3/5 - Tags: budget|nature|overwater|beach|spa - Website: http://starsuites.com"
+  },
+  {
+    "text": "Sky Hotel in Jaffna - Price category: budget - Rating: 4.1/5 - Tags: clean|overwater|budget - Website: http://skyhotel.com"
+  },
+  {
+    "text": "Coral Guesthouse in Kandy - Price category: budget - Rating: 4.4/5 - Tags: clean|quiet|overwater - Website: http://coralguesthouse.com"
+  },
+  {
+    "text": "Sun Suites in Negombo - Price category: budget - Rating: 4.6/5 - Tags: wifi|breakfast|luxury - Website: http://sunsuites.com"
+  },
+  {
+    "text": "Lake Inn in Maldives - Price category: budget - Rating: 4.4/5 - Tags: pool|wifi|luxury|nature|spa - Website: http://lakeinn.com"
+  },
+  {
+    "text": "Sea Retreat in Trincomalee - Price category: luxury - Rating: 4.8/5 - Tags: budget|pool|spa|nature|overwater - Website: http://searetreat.com"
+  },
+  {
+    "text": "Moon Retreat in Galle - Price category: luxury - Rating: 4.3/5 - Tags: breakfast|pool|clean - Website: http://moonretreat.com"
+  },
+  {
+    "text": "City Retreat in Negombo - Price category: luxury - Rating: 3.8/5 - Tags: quiet|budget|wifi|beach|pool - Website: http://cityretreat.com"
+  },
+  {
+    "text": "Coral Lodge in Colombo - Price category: budget - Rating: 3.6/5 - Tags: clean|breakfast|wifi|central|quiet - Website: http://corallodge.com"
+  },
+  {
+    "text": "Sky Bungalow in Bentota - Price category: mid - Rating: 4.0/5 - Tags: central|clean|pool - Website: http://skybungalow.com"
+  },
+  {
+    "text": "Palm Guesthouse in Colombo - Price category: luxury - Rating: 4.5/5 - Tags: pool|quiet|overwater|budget - Website: http://palmguesthouse.com"
+  },
+  {
+    "text": "Moon Suites in Anuradhapura - Price category: luxury - Rating: 4.4/5 - Tags: central|wifi|pool|luxury|spa - Website: http://moonsuites.com"
+  },
+  {
+    "text": "Sea Bungalow in Trincomalee - Price category: luxury - Rating: 3.5/5 - Tags: quiet|breakfast|central|beach - Website: http://seabungalow.com"
+  },
+  {
+    "text": "Hill Inn in Trincomalee - Price category: mid - Rating: 4.0/5 - Tags: budget|quiet|clean|breakfast - Website: http://hillinn.com"
+  },
+  {
+    "text": "Moon Resort in Galle - Price category: budget - Rating: 4.6/5 - Tags: pool|beach|spa - Website: http://moonresort.com"
+  },
+  {
+    "text": "City Bungalow in Nuwara Eliya - Price category: mid - Rating: 3.8/5 - Tags: central|nature|clean|quiet - Website: http://citybungalow.com"
+  },
+  {
+    "text": "Moon Bungalow in Nuwara Eliya - Price category: luxury - Rating: 4.4/5 - Tags: quiet|budget|nature|spa - Website: http://moonbungalow.com"
+  },
+  {
+    "text": "Palm Guesthouse in Anuradhapura - Price category: mid - Rating: 4.7/5 - Tags: spa|budget|breakfast|pool|wifi - Website: http://palmguesthouse.com"
+  },
+  {
+    "text": "Sea Resort in Nuwara Eliya - Price category: mid - Rating: 4.9/5 - Tags: beach|quiet|budget|central - Website: http://searesort.com"
+  },
+  {
+    "text": "Sky Bungalow in Anuradhapura - Price category: mid - Rating: 4.3/5 - Tags: clean|wifi|budget - Website: http://skybungalow.com"
+  },
+  {
+    "text": "Sky Guesthouse in Jaffna - Price category: luxury - Rating: 4.2/5 - Tags: beach|overwater|pool - Website: http://skyguesthouse.com"
+  },
+  {
+    "text": "Sea Inn in Negombo - Price category: budget - Rating: 3.9/5 - Tags: budget|pool|nature - Website: http://seainn.com"
+  },
+  {
+    "text": "Star Hotel in Bentota - Price category: mid - Rating: 3.8/5 - Tags: breakfast|beach|clean|quiet - Website: http://starhotel.com"
+  },
+  {
+    "text": "Palm Hotel in Kandy - Price category: mid - Rating: 3.7/5 - Tags: quiet|luxury|clean|beach - Website: http://palmhotel.com"
+  },
+  {
+    "text": "Moon Bungalow in Kandy - Price category: budget - Rating: 4.2/5 - Tags: breakfast|budget|wifi - Website: http://moonbungalow.com"
+  },
+  {
+    "text": "Moon Lodge in Colombo - Price category: budget - Rating: 3.6/5 - Tags: quiet|wifi|central|pool - Website: http://moonlodge.com"
+  },
+  {
+    "text": "Sun Guesthouse in Maldives - Price category: budget - Rating: 4.9/5 - Tags: central|spa|nature|overwater|budget - Website: http://sunguesthouse.com"
+  },
+  {
+    "text": "Sun Retreat in Negombo - Price category: budget - Rating: 3.7/5 - Tags: nature|luxury|pool|central - Website: http://sunretreat.com"
+  },
+  {
+    "text": "Palm Retreat in Anuradhapura - Price category: mid - Rating: 4.9/5 - Tags: beach|central|pool|breakfast|quiet - Website: http://palmretreat.com"
+  },
+  {
+    "text": "Palm Bungalow in Jaffna - Price category: luxury - Rating: 4.7/5 - Tags: pool|clean|beach - Website: http://palmbungalow.com"
+  },
+  {
+    "text": "Lake Guesthouse in Bentota - Price category: mid - Rating: 4.1/5 - Tags: budget|pool|central - Website: http://lakeguesthouse.com"
+  },
+  {
+    "text": "Sun Resort in Nuwara Eliya - Price category: budget - Rating: 4.3/5 - Tags: budget|wifi|pool - Website: http://sunresort.com"
+  },
+  {
+    "text": "Moon Guesthouse in Trincomalee - Price category: mid - Rating: 4.3/5 - Tags: overwater|budget|pool|beach|spa - Website: http://moonguesthouse.com"
+  },
+  {
+    "text": "Sun Resort in Maldives - Price category: luxury - Rating: 4.3/5 - Tags: luxury|clean|beach|wifi - Website: http://sunresort.com"
+  },
+  {
+    "text": "Hill Villa in Jaffna - Price category: mid - Rating: 3.6/5 - Tags: spa|overwater|budget - Website: http://hillvilla.com"
+  },
+  {
+    "text": "City Hotel in Trincomalee - Price category: luxury - Rating: 4.4/5 - Tags: luxury|beach|central - Website: http://cityhotel.com"
+  },
+  {
+    "text": "Hill Guesthouse in Anuradhapura - Price category: mid - Rating: 4.2/5 - Tags: beach|clean|overwater|wifi - Website: http://hillguesthouse.com"
+  },
+  {
+    "text": "Lake Hotel in Colombo - Price category: budget - Rating: 4.5/5 - Tags: quiet|luxury|budget|nature|clean - Website: http://lakehotel.com"
+  },
+  {
+    "text": "Star Resort in Galle - Price category: budget - Rating: 4.6/5 - Tags: central|overwater|breakfast|quiet|clean - Website: http://starresort.com"
+  },
+  {
+    "text": "Palm Lodge in Galle - Price category: budget - Rating: 4.9/5 - Tags: central|clean|quiet - Website: http://palmlodge.com"
+  },
+  {
+    "text": "Hill Villa in Bentota - Price category: budget - Rating: 3.7/5 - Tags: wifi|central|clean|quiet - Website: http://hillvilla.com"
+  },
+  {
+    "text": "Sun Retreat in Bentota - Price category: mid - Rating: 4.9/5 - Tags: wifi|luxury|budget|breakfast|pool - Website: http://sunretreat.com"
+  },
+  {
+    "text": "City Suites in Negombo - Price category: luxury - Rating: 4.1/5 - Tags: spa|budget|luxury|wifi - Website: http://citysuites.com"
+  },
+  {
+    "text": "Star Retreat in Jaffna - Price category: budget - Rating: 3.6/5 - Tags: budget|nature|pool - Website: http://starretreat.com"
+  },
+  {
+    "text": "Lake Villa in Anuradhapura - Price category: budget - Rating: 4.9/5 - Tags: central|wifi|spa|overwater - Website: http://lakevilla.com"
+  },
+  {
+    "text": "Sky Bungalow in Negombo - Price category: luxury - Rating: 3.6/5 - Tags: luxury|breakfast|central|quiet|spa - Website: http://skybungalow.com"
+  },
+  {
+    "text": "Lake Hotel in Maldives - Price category: luxury - Rating: 4.6/5 - Tags: overwater|budget|spa - Website: http://lakehotel.com"
+  },
+  {
+    "text": "Sky Lodge in Galle - Price category: budget - Rating: 4.3/5 - Tags: overwater|wifi|central|spa - Website: http://skylodge.com"
+  },
+  {
+    "text": "City Guesthouse in Bentota - Price category: budget - Rating: 5.0/5 - Tags: luxury|wifi|overwater|central|clean - Website: http://cityguesthouse.com"
+  },
+  {
+    "text": "City Bungalow in Anuradhapura - Price category: luxury - Rating: 3.8/5 - Tags: spa|overwater|beach - Website: http://citybungalow.com"
+  },
+  {
+    "text": "Sky Resort in Nuwara Eliya - Price category: budget - Rating: 4.1/5 - Tags: central|overwater|wifi|clean|nature - Website: http://skyresort.com"
+  },
+  {
+    "text": "Hill Hotel in Negombo - Price category: budget - Rating: 4.4/5 - Tags: wifi|pool|central|luxury - Website: http://hillhotel.com"
+  },
+  {
+    "text": "Sky Hotel in Bentota - Price category: budget - Rating: 4.2/5 - Tags: quiet|overwater|nature - Website: http://skyhotel.com"
+  },
+  {
+    "text": "City Villa in Trincomalee - Price category: budget - Rating: 4.2/5 - Tags: central|clean|overwater|pool - Website: http://cityvilla.com"
+  },
+  {
+    "text": "Palm Suites in Galle - Price category: mid - Rating: 4.3/5 - Tags: pool|wifi|overwater|breakfast|budget - Website: http://palmsuites.com"
+  },
+  {
+    "text": "Coral Lodge in Bentota - Price category: mid - Rating: 4.8/5 - Tags: luxury|pool|central|wifi - Website: http://corallodge.com"
+  },
+  {
+    "text": "Lake Villa in Kandy - Price category: mid - Rating: 3.7/5 - Tags: quiet|pool|spa|wifi - Website: http://lakevilla.com"
+  },
+  {
+    "text": "Lake Lodge in Jaffna - Price category: budget - Rating: 3.8/5 - Tags: spa|wifi|beach|budget|overwater - Website: http://lakelodge.com"
+  },
+  {
+    "text": "Hill Hotel in Colombo - Price category: budget - Rating: 3.8/5 - Tags: overwater|nature|budget|central - Website: http://hillhotel.com"
+  },
+  {
+    "text": "Star Lodge in Negombo - Price category: luxury - Rating: 4.3/5 - Tags: pool|spa|budget|clean|wifi - Website: http://starlodge.com"
+  },
+  {
+    "text": "Palm Bungalow in Bentota - Price category: luxury - Rating: 4.3/5 - Tags: quiet|luxury|wifi|beach|pool - Website: http://palmbungalow.com"
+  },
+  {
+    "text": "Moon Inn in Trincomalee - Price category: mid - Rating: 3.5/5 - Tags: overwater|spa|quiet|pool - Website: http://mooninn.com"
+  },
+  {
+    "text": "Sun Bungalow in Anuradhapura - Price category: luxury - Rating: 4.3/5 - Tags: budget|quiet|beach|clean|spa - Website: http://sunbungalow.com"
+  },
+  {
+    "text": "Sky Guesthouse in Anuradhapura - Price category: luxury - Rating: 4.3/5 - Tags: nature|beach|wifi - Website: http://skyguesthouse.com"
+  },
+  {
+    "text": "Sky Suites in Negombo - Price category: budget - Rating: 5.0/5 - Tags: wifi|beach|overwater|breakfast - Website: http://skysuites.com"
+  },
+  {
+    "text": "Sun Resort in Bentota - Price category: budget - Rating: 4.5/5 - Tags: overwater|breakfast|pool|beach - Website: http://sunresort.com"
+  },
+  {
+    "text": "Star Lodge in Galle - Price category: budget - Rating: 4.9/5 - Tags: central|beach|quiet - Website: http://starlodge.com"
+  },
+  {
+    "text": "Lake Hotel in Kandy - Price category: budget - Rating: 4.8/5 - Tags: pool|quiet|breakfast|wifi|clean - Website: http://lakehotel.com"
+  },
+  {
+    "text": "Moon Inn in Colombo - Price category: luxury - Rating: 3.8/5 - Tags: spa|nature|beach|luxury|wifi - Website: http://mooninn.com"
+  },
+  {
+    "text": "Sun Villa in Colombo - Price category: luxury - Rating: 3.5/5 - Tags: budget|pool|wifi|nature - Website: http://sunvilla.com"
+  },
+  {
+    "text": "Lake Guesthouse in Colombo - Price category: budget - Rating: 3.8/5 - Tags: beach|budget|spa - Website: http://lakeguesthouse.com"
+  },
+  {
+    "text": "Lake Lodge in Bentota - Price category: budget - Rating: 3.8/5 - Tags: nature|luxury|pool - Website: http://lakelodge.com"
+  },
+  {
+    "text": "Moon Villa in Galle - Price category: mid - Rating: 4.5/5 - Tags: wifi|quiet|nature|breakfast|budget - Website: http://moonvilla.com"
+  },
+  {
+    "text": "City Inn in Bentota - Price category: mid - Rating: 3.9/5 - Tags: beach|nature|central|quiet - Website: http://cityinn.com"
+  },
+  {
+    "text": "Hill Lodge in Jaffna - Price category: luxury - Rating: 3.6/5 - Tags: wifi|budget|spa|overwater - Website: http://hilllodge.com"
+  },
+  {
+    "text": "Moon Bungalow in Galle - Price category: luxury - Rating: 5.0/5 - Tags: budget|spa|breakfast|clean - Website: http://moonbungalow.com"
+  },
+  {
+    "text": "Sun Resort in Negombo - Price category: budget - Rating: 4.5/5 - Tags: overwater|spa|beach|luxury|budget - Website: http://sunresort.com"
+  },
+  {
+    "text": "Lake Retreat in Jaffna - Price category: mid - Rating: 4.9/5 - Tags: quiet|central|overwater|wifi|clean - Website: http://lakeretreat.com"
+  },
+  {
+    "text": "Sun Retreat in Negombo - Price category: luxury - Rating: 3.5/5 - Tags: central|budget|beach|pool|quiet - Website: http://sunretreat.com"
+  },
+  {
+    "text": "Star Villa in Bentota - Price category: budget - Rating: 3.5/5 - Tags: spa|quiet|overwater - Website: http://starvilla.com"
+  },
+  {
+    "text": "Sun Resort in Nuwara Eliya - Price category: budget - Rating: 4.6/5 - Tags: spa|wifi|overwater|nature|pool - Website: http://sunresort.com"
+  },
+  {
+    "text": "Sun Suites in Negombo - Price category: luxury - Rating: 4.2/5 - Tags: quiet|clean|central|wifi - Website: http://sunsuites.com"
+  },
+  {
+    "text": "Sea Retreat in Galle - Price category: luxury - Rating: 4.2/5 - Tags: beach|overwater|spa|quiet|luxury - Website: http://searetreat.com"
+  },
+  {
+    "text": "Moon Retreat in Colombo - Price category: luxury - Rating: 3.7/5 - Tags: pool|overwater|breakfast|nature - Website: http://moonretreat.com"
+  },
+  {
+    "text": "Star Hotel in Trincomalee - Price category: mid - Rating: 3.7/5 - Tags: quiet|clean|overwater|beach|budget - Website: http://starhotel.com"
+  },
+  {
+    "text": "Palm Suites in Maldives - Price category: mid - Rating: 4.2/5 - Tags: quiet|spa|pool|beach - Website: http://palmsuites.com"
+  },
+  {
+    "text": "Sea Guesthouse in Colombo - Price category: mid - Rating: 4.8/5 - Tags: nature|luxury|beach|clean - Website: http://seaguesthouse.com"
+  },
+  {
+    "text": "Sun Villa in Kandy - Price category: budget - Rating: 3.7/5 - Tags: luxury|budget|nature|pool - Website: http://sunvilla.com"
+  },
+  {
+    "text": "Sky Suites in Trincomalee - Price category: luxury - Rating: 4.7/5 - Tags: luxury|breakfast|wifi - Website: http://skysuites.com"
+  },
+  {
+    "text": "Sea Retreat in Colombo - Price category: mid - Rating: 3.7/5 - Tags: pool|breakfast|central|beach - Website: http://searetreat.com"
+  },
+  {
+    "text": "Moon Hotel in Anuradhapura - Price category: mid - Rating: 4.1/5 - Tags: breakfast|central|quiet|pool - Website: http://moonhotel.com"
+  },
+  {
+    "text": "City Inn in Negombo - Price category: mid - Rating: 4.9/5 - Tags: overwater|spa|quiet - Website: http://cityinn.com"
+  },
+  {
+    "text": "Moon Hotel in Maldives - Price category: mid - Rating: 3.9/5 - Tags: nature|pool|central|breakfast - Website: http://moonhotel.com"
+  },
+  {
+    "text": "Sky Lodge in Jaffna - Price category: budget - Rating: 3.8/5 - Tags: luxury|spa|quiet - Website: http://skylodge.com"
+  },
+  {
+    "text": "City Lodge in Galle - Price category: budget - Rating: 4.5/5 - Tags: nature|luxury|clean - Website: http://citylodge.com"
+  },
+  {
+    "text": "Sea Inn in Anuradhapura - Price category: budget - Rating: 4.2/5 - Tags: spa|pool|beach|quiet - Website: http://seainn.com"
+  },
+  {
+    "text": "Star Suites in Nuwara Eliya - Price category: luxury - Rating: 3.8/5 - Tags: wifi|luxury|clean - Website: http://starsuites.com"
+  },
+  {
+    "text": "Moon Hotel in Anuradhapura - Price category: luxury - Rating: 4.0/5 - Tags: luxury|central|clean|budget - Website: http://moonhotel.com"
+  },
+  {
+    "text": "Palm Bungalow in Kandy - Price category: budget - Rating: 4.5/5 - Tags: wifi|pool|beach|luxury - Website: http://palmbungalow.com"
+  },
+  {
+    "text": "Sky Inn in Colombo - Price category: mid - Rating: 3.8/5 - Tags: breakfast|quiet|budget|pool|nature - Website: http://skyinn.com"
+  },
+  {
+    "text": "Sky Lodge in Trincomalee - Price category: mid - Rating: 3.6/5 - Tags: spa|nature|luxury|budget - Website: http://skylodge.com"
+  },
+  {
+    "text": "Lake Bungalow in Nuwara Eliya - Price category: mid - Rating: 4.4/5 - Tags: pool|quiet|luxury|central - Website: http://lakebungalow.com"
+  },
+  {
+    "text": "City Hotel in Negombo - Price category: luxury - Rating: 4.0/5 - Tags: overwater|beach|clean|breakfast - Website: http://cityhotel.com"
+  },
+  {
+    "text": "Palm Suites in Galle - Price category: budget - Rating: 4.3/5 - Tags: quiet|pool|wifi - Website: http://palmsuites.com"
+  },
+  {
+    "text": "City Resort in Kandy - Price category: budget - Rating: 4.4/5 - Tags: wifi|luxury|overwater|spa - Website: http://cityresort.com"
+  },
+  {
+    "text": "Sea Lodge in Galle - Price category: luxury - Rating: 3.6/5 - Tags: nature|pool|overwater - Website: http://sealodge.com"
+  },
+  {
+    "text": "Hill Villa in Trincomalee - Price category: budget - Rating: 4.4/5 - Tags: nature|beach|luxury|pool - Website: http://hillvilla.com"
+  },
+  {
+    "text": "Sky Lodge in Galle - Price category: luxury - Rating: 4.8/5 - Tags: spa|pool|central - Website: http://skylodge.com"
+  },
+  {
+    "text": "Sun Inn in Nuwara Eliya - Price category: budget - Rating: 4.0/5 - Tags: quiet|pool|luxury|central|wifi - Website: http://suninn.com"
+  },
+  {
+    "text": "Palm Hotel in Trincomalee - Price category: luxury - Rating: 4.5/5 - Tags: spa|beach|luxury|quiet|breakfast - Website: http://palmhotel.com"
+  },
+  {
+    "text": "Moon Guesthouse in Jaffna - Price category: mid - Rating: 4.7/5 - Tags: wifi|overwater|clean|beach|quiet - Website: http://moonguesthouse.com"
+  },
+  {
+    "text": "Lake Villa in Kandy - Price category: mid - Rating: 4.6/5 - Tags: beach|central|breakfast - Website: http://lakevilla.com"
+  },
+  {
+    "text": "Sea Villa in Galle - Price category: luxury - Rating: 4.3/5 - Tags: overwater|beach|nature - Website: http://seavilla.com"
+  },
+  {
+    "text": "Coral Lodge in Anuradhapura - Price category: luxury - Rating: 4.5/5 - Tags: central|spa|overwater|beach - Website: http://corallodge.com"
+  },
+  {
+    "text": "Sea Bungalow in Jaffna - Price category: mid - Rating: 3.8/5 - Tags: luxury|budget|spa|pool|beach - Website: http://seabungalow.com"
+  },
+  {
+    "text": "City Hotel in Trincomalee - Price category: budget - Rating: 4.2/5 - Tags: clean|wifi|budget|pool - Website: http://cityhotel.com"
+  },
+  {
+    "text": "Sun Bungalow in Nuwara Eliya - Price category: budget - Rating: 4.0/5 - Tags: luxury|pool|budget|nature - Website: http://sunbungalow.com"
+  },
+  {
+    "text": "Sun Retreat in Anuradhapura - Price category: budget - Rating: 3.9/5 - Tags: budget|spa|pool|nature|overwater - Website: http://sunretreat.com"
+  },
+  {
+    "text": "Star Bungalow in Trincomalee - Price category: luxury - Rating: 4.0/5 - Tags: overwater|luxury|clean - Website: http://starbungalow.com"
+  },
+  {
+    "text": "Lake Villa in Negombo - Price category: mid - Rating: 4.8/5 - Tags: pool|breakfast|clean - Website: http://lakevilla.com"
+  },
+  {
+    "text": "Palm Retreat in Nuwara Eliya - Price category: luxury - Rating: 3.7/5 - Tags: budget|clean|luxury|spa|quiet - Website: http://palmretreat.com"
+  },
+  {
+    "text": "City Suites in Colombo - Price category: budget - Rating: 3.8/5 - Tags: wifi|luxury|central|budget|clean - Website: http://citysuites.com"
+  },
+  {
+    "text": "Sky Suites in Bentota - Price category: mid - Rating: 3.6/5 - Tags: wifi|breakfast|nature - Website: http://skysuites.com"
+  },
+  {
+    "text": "Sky Inn in Kandy - Price category: mid - Rating: 4.0/5 - Tags: beach|overwater|nature - Website: http://skyinn.com"
+  },
+  {
+    "text": "Coral Inn in Jaffna - Price category: mid - Rating: 3.6/5 - Tags: spa|wifi|luxury - Website: http://coralinn.com"
+  },
+  {
+    "text": "Coral Resort in Anuradhapura - Price category: budget - Rating: 3.7/5 - Tags: overwater|beach|pool - Website: http://coralresort.com"
+  },
+  {
+    "text": "City Retreat in Anuradhapura - Price category: mid - Rating: 4.1/5 - Tags: budget|nature|central - Website: http://cityretreat.com"
+  },
+  {
+    "text": "Moon Lodge in Nuwara Eliya - Price category: mid - Rating: 5.0/5 - Tags: wifi|breakfast|beach|central - Website: http://moonlodge.com"
+  },
+  {
+    "text": "City Villa in Nuwara Eliya - Price category: mid - Rating: 4.6/5 - Tags: quiet|nature|overwater - Website: http://cityvilla.com"
+  },
+  {
+    "text": "Lake Villa in Galle - Price category: luxury - Rating: 4.4/5 - Tags: beach|overwater|budget - Website: http://lakevilla.com"
+  },
+  {
+    "text": "Sun Bungalow in Galle - Price category: mid - Rating: 3.7/5 - Tags: overwater|wifi|pool - Website: http://sunbungalow.com"
+  },
+  {
+    "text": "Moon Resort in Nuwara Eliya - Price category: mid - Rating: 3.9/5 - Tags: wifi|breakfast|nature - Website: http://moonresort.com"
+  },
+  {
+    "text": "Palm Retreat in Colombo - Price category: mid - Rating: 4.6/5 - Tags: wifi|budget|quiet - Website: http://palmretreat.com"
+  },
+  {
+    "text": "City Villa in Trincomalee - Price category: luxury - Rating: 3.6/5 - Tags: spa|wifi|breakfast|nature - Website: http://cityvilla.com"
+  },
+  {
+    "text": "Palm Lodge in Maldives - Price category: budget - Rating: 4.0/5 - Tags: central|nature|budget|beach|wifi - Website: http://palmlodge.com"
+  },
+  {
+    "text": "Sky Bungalow in Colombo - Price category: mid - Rating: 3.6/5 - Tags: breakfast|luxury|beach|overwater|budget - Website: http://skybungalow.com"
+  },
+  {
+    "text": "City Guesthouse in Bentota - Price category: budget - Rating: 4.0/5 - Tags: central|nature|luxury|overwater|breakfast - Website: http://cityguesthouse.com"
+  },
+  {
+    "text": "Coral Lodge in Anuradhapura - Price category: mid - Rating: 4.3/5 - Tags: overwater|luxury|budget - Website: http://corallodge.com"
+  },
+  {
+    "text": "Hill Hotel in Colombo - Price category: mid - Rating: 4.4/5 - Tags: overwater|breakfast|central|nature|luxury - Website: http://hillhotel.com"
+  },
+  {
+    "text": "Sky Inn in Bentota - Price category: budget - Rating: 3.7/5 - Tags: pool|quiet|luxury|overwater - Website: http://skyinn.com"
+  },
+  {
+    "text": "Lake Retreat in Maldives - Price category: mid - Rating: 4.6/5 - Tags: budget|spa|beach|overwater - Website: http://lakeretreat.com"
+  },
+  {
+    "text": "Sky Bungalow in Bentota - Price category: mid - Rating: 3.7/5 - Tags: luxury|overwater|clean - Website: http://skybungalow.com"
+  },
+  {
+    "text": "City Guesthouse in Galle - Price category: budget - Rating: 5.0/5 - Tags: clean|beach|central|overwater|luxury - Website: http://cityguesthouse.com"
+  },
+  {
+    "text": "Moon Bungalow in Nuwara Eliya - Price category: mid - Rating: 4.4/5 - Tags: breakfast|budget|luxury - Website: http://moonbungalow.com"
+  },
+  {
+    "text": "Sea Suites in Negombo - Price category: luxury - Rating: 4.0/5 - Tags: beach|clean|central - Website: http://seasuites.com"
+  },
+  {
+    "text": "Sun Suites in Kandy - Price category: budget - Rating: 4.3/5 - Tags: spa|beach|overwater|wifi|central - Website: http://sunsuites.com"
+  },
+  {
+    "text": "Palm Lodge in Jaffna - Price category: mid - Rating: 4.6/5 - Tags: clean|quiet|luxury|breakfast - Website: http://palmlodge.com"
+  },
+  {
+    "text": "Sky Inn in Negombo - Price category: budget - Rating: 4.1/5 - Tags: clean|spa|pool - Website: http://skyinn.com"
+  },
+  {
+    "text": "Hill Hotel in Colombo - Price category: budget - Rating: 5.0/5 - Tags: luxury|breakfast|pool|central|wifi - Website: http://hillhotel.com"
+  },
+  {
+    "text": "Coral Resort in Maldives - Price category: budget - Rating: 4.1/5 - Tags: wifi|beach|pool|budget - Website: http://coralresort.com"
+  },
+  {
+    "text": "Coral Bungalow in Colombo - Price category: luxury - Rating: 4.1/5 - Tags: overwater|quiet|spa|pool|budget - Website: http://coralbungalow.com"
+  },
+  {
+    "text": "Sun Guesthouse in Maldives - Price category: budget - Rating: 4.8/5 - Tags: central|breakfast|budget - Website: http://sunguesthouse.com"
+  },
+  {
+    "text": "Sea Retreat in Jaffna - Price category: luxury - Rating: 4.7/5 - Tags: clean|central|pool - Website: http://searetreat.com"
+  },
+  {
+    "text": "Star Suites in Bentota - Price category: budget - Rating: 3.5/5 - Tags: breakfast|overwater|quiet|clean - Website: http://starsuites.com"
+  },
+  {
+    "text": "Moon Suites in Jaffna - Price category: mid - Rating: 3.9/5 - Tags: spa|budget|overwater - Website: http://moonsuites.com"
+  },
+  {
+    "text": "Palm Bungalow in Galle - Price category: mid - Rating: 3.8/5 - Tags: wifi|beach|clean|nature - Website: http://palmbungalow.com"
+  },
+  {
+    "text": "Coral Villa in Trincomalee - Price category: mid - Rating: 4.1/5 - Tags: spa|overwater|budget|pool|nature - Website: http://coralvilla.com"
+  },
+  {
+    "text": "Sky Inn in Negombo - Price category: budget - Rating: 4.2/5 - Tags: clean|spa|central - Website: http://skyinn.com"
+  },
+  {
+    "text": "Star Lodge in Jaffna - Price category: budget - Rating: 4.9/5 - Tags: breakfast|spa|nature|quiet|pool - Website: http://starlodge.com"
   }
 ]

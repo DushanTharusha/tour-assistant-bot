@@ -9,7 +9,7 @@ from sentence_transformers import SentenceTransformer
 EMBED_MODEL = "all-MiniLM-L6-v2"
 INDEX_PATH = "D:\\Edu\\Projects\\tour-assistant-bot\\backend\\data\\faiss.index"
 CHUNKS_PATH = "D:\\Edu\\Projects\\tour-assistant-bot\\backend\\data\\chunks.json"
-DATA_PATH = "D:\\Edu\\Projects\\tour-assistant-bot\\backend\\data\\stays.csv"  # Your accommodations CSV
+DATA_PATH = "D:\\Edu\\Projects\\tour-assistant-bot\\backend\\data\\travel_hotels_dataset.csv"  # Your accommodations CSV
 
 # def load_data():
 #     print("📂 Loading stays.csv...")
