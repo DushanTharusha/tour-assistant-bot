@@ -37,7 +37,7 @@ def search_hotels(query: str, top_k: int = 5) -> List[Dict]:
     return retriever.retrieve(query, top_k=top_k)
 
 
-# ----- Destinations (LLM-powered) -----
+# ----- Destinations  -----
 def recommend_destinations(preferences: Optional[str] = None, n: int = 5) -> List[str]:
     """
     Ask Groq LLM to recommend destinations based on optional preferences.
@@ -52,7 +52,7 @@ def recommend_destinations(preferences: Optional[str] = None, n: int = 5) -> Lis
 
     try:
         completion = client.chat.completions.create(
-            model="mixtral-8x7b-32768",
+            model="llama-3.3-70b-versatile",
             messages=[
                 {"role": "system", "content": "You are a helpful travel assistant."},
                 {"role": "user", "content": prompt}
@@ -103,7 +103,7 @@ def get_weather(city: str, api_key: Optional[str] = None) -> Optional[Dict]:
     }
 
 
-# ----- Hotels with Context (LLM) -----
+# ----- Hotels with Context -----
 def format_hotels_with_context(query: str, top_k: int = 5) -> str:
     """
     Retrieve hotel chunks, build a context and ask Groq LLM to summarize into a helpful list.

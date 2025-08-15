@@ -1,33 +1,25 @@
-# backend/rag_build.py
 
 import faiss
 import json
 import pandas as pd
 from sentence_transformers import SentenceTransformer
+from pathlib import Path
 
 # Paths
 EMBED_MODEL = "all-MiniLM-L6-v2"
 INDEX_PATH = "D:\\Edu\\Projects\\tour-assistant-bot\\backend\\data\\faiss.index"
 CHUNKS_PATH = "D:\\Edu\\Projects\\tour-assistant-bot\\backend\\data\\chunks.json"
-DATA_PATH = "D:\\Edu\\Projects\\tour-assistant-bot\\backend\\data\\travel_hotels_dataset.csv"  # Your accommodations CSV
+DATA_PATH = "D:\\Edu\\Projects\\tour-assistant-bot\\backend\\data\\travel_hotels_dataset.csv"
+MD_FOLDER = "D:\\Edu\\Projects\\tour-assistant-bot\\backend\\data\\docs"  # Folder containing .md files
 
-# def load_data():
-#     print("📂 Loading stays.csv...")
-#     df = pd.read_csv(DATA_PATH)
-#     texts = []
-#     for _, row in df.iterrows():
-#         # You can customize how the text is built
-#         text = f"{row['name']} in {row['location']} - Price: {row['price']} - Amenities: {row['amenities']}"
-#         texts.append({"text": text})
-#     return texts
-def load_data():
+def load_csv_data():
+    """Load hotel/accommodation data from CSV."""
     print("📂 Loading stays.csv...")
     df = pd.read_csv(DATA_PATH)
     print("🧾 Columns found:", df.columns.tolist())
 
     texts = []
     for _, row in df.iterrows():
-        # Safely get each field to avoid issues with missing data
         name = row.get("name", "")
         city = row.get("city", "")
         price = row.get("price_bucket", "")
@@ -43,25 +35,32 @@ def load_data():
     
     return texts
 
+def load_md_data():
+    """Load travel knowledge from all .md files."""
+    print(f"📂 Loading markdown files from {MD_FOLDER}...")
+    texts = []
+    for md_file in Path(MD_FOLDER).rglob("*.md"):
+        with open(md_file, "r", encoding="utf-8") as f:
+            content = f.read()
+            texts.append({"text": content})
+            print(f"   ✅ Loaded {md_file.name}")
+    return texts
+
 def build_index():
-    # Load model
     print("🔍 Loading embedding model...")
     model = SentenceTransformer(EMBED_MODEL)
 
-    # Load data
-    chunks = load_data()
+    # Load data from both CSV and MD files
+    chunks = load_csv_data() + load_md_data()
     texts = [chunk["text"] for chunk in chunks]
 
-    # Create embeddings
     print("⚙️ Creating embeddings...")
     embeddings = model.encode(texts, convert_to_numpy=True).astype("float32")
 
-    # Create FAISS index
     print("📦 Building FAISS index...")
     index = faiss.IndexFlatL2(embeddings.shape[1])
     index.add(embeddings)
 
-    # Save index and chunks
     faiss.write_index(index, INDEX_PATH)
     with open(CHUNKS_PATH, "w", encoding="utf-8") as f:
         json.dump(chunks, f, ensure_ascii=False, indent=2)
